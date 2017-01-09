@@ -1,0 +1,5110 @@
+LOG ENTRY: Wed May 11th, 2016 @ precisely 2:22 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.87 MB :: Real Memory 49.25 MB :: Peak Memory 49.01 MB :: Real Peak Memory 49.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Array
+(
+    [user_id] => 1944
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1944
+                    [user_login] => madgrah
+                    [user_pass] => $P$BTIMsSQ9rtkld/ObqsAntBIHimzvrD1
+                    [user_nicename] => madeline-graham
+                    [user_email] => madelinedgraham@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-05-11 19:22:46
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Madeline Graham
+                )
+
+            [ID] => 1944
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Madeline
+            [mb_last_name] => Graham
+            [mb_birthday] => 1948-02-08
+            [mb_email] => madelinedgraham@gmail.com
+            [mb_phone] => 5124174594
+            [mb_occupation] => realtor
+            [mb_addr1] => 6605 Cat Creek TR
+            [mb_addr2] => 
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78731
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => madelinedgraham@gmail.com
+    [login] => madgrah
+    [ip] => 99.61.66.255
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Madeline
+    [lname] => Graham
+    [name] => Madeline Graham
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => k6m6trvkr11jkklah8pteq4ne6
+            [_gat] => 1
+            [_ga] => GA1.2.229986347.1462994454
+        )
+
+)
+
+LOG ENTRY: Thu May 12th, 2016 @ precisely 8:13 am America/Chicago
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.88 MB :: Real Memory 49.25 MB :: Peak Memory 49.05 MB :: Real Peak Memory 49.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Array
+(
+    [user_id] => 1945
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1945
+                    [user_login] => danmatt
+                    [user_pass] => $P$BCe2rcOOXiT5BTwzleykS9KdpM5MBi/
+                    [user_nicename] => dana-matthews
+                    [user_email] => irunincc@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-05-12 13:13:09
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Dana Matthews
+                )
+
+            [ID] => 1945
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => DANA
+            [mb_last_name] => MATTHEWS
+            [mb_birthday] => 4/17/71
+            [mb_email] => IRUNINCC@YAHOO.COM
+            [mb_phone] => 361-779-7475
+            [mb_occupation] => NURSE
+            [mb_addr1] => 1536 LAZY LANE
+            [mb_addr2] => 
+            [mb_city] => CORPUS CHRISTI
+            [mb_state] => TX
+            [mb_zip] => 78415
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => irunincc@yahoo.com
+    [login] => danmatt
+    [ip] => 206.126.60.42
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Dana
+    [lname] => Matthews
+    [name] => Dana Matthews
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [_ga] => GA1.2.859940258.1462919420
+            [_gat] => 1
+            [PHPSESSID] => gpqgqadv62p0efqmc56ljahpv0
+        )
+
+)
+
+LOG ENTRY: Thu May 12th, 2016 @ precisely 3:24 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.86 MB :: Real Memory 49.25 MB :: Peak Memory 49.00 MB :: Real Peak Memory 49.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Array
+(
+    [user_id] => 1946
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1946
+                    [user_login] => caswill
+                    [user_pass] => $P$B5tXUyf3/TeBt2BWfOndcgUjBIwSfq1
+                    [user_nicename] => cassandra-willich
+                    [user_email] => cassy.willich@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-05-12 20:23:59
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Cassandra Willich
+                )
+
+            [ID] => 1946
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Cassandra
+            [mb_last_name] => Willich
+            [mb_birthday] => 1989-09-20
+            [mb_email] => cassy.willich@gmail.com
+            [mb_phone] => 9043494454
+            [mb_occupation] => Marketing Manager
+            [mb_addr1] => 9417 Great Hills Trail
+            [mb_addr2] => 1023
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78759
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => cassy.willich@gmail.com
+    [login] => caswill
+    [ip] => 67.214.68.214
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Cassandra
+    [lname] => Willich
+    [name] => Cassandra Willich
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => gqmahu70es1j05fbfndnl9ohr6
+            [_gat] => 1
+            [_ga] => GA1.2.1960908429.1463084585
+        )
+
+)
+
+LOG ENTRY: Thu May 12th, 2016 @ precisely 9:59 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.87 MB :: Real Memory 49.25 MB :: Peak Memory 49.01 MB :: Real Peak Memory 49.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPad; CPU OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E238 Safari/601.1
+Array
+(
+    [user_id] => 1947
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1947
+                    [user_login] => scodupl
+                    [user_pass] => $P$BHA0rpDiQ6pEj90PNPVtEqOx7Oiw1x0
+                    [user_nicename] => scott-duplantis
+                    [user_email] => scott.duplantis@morganstanley.com
+                    [user_url] => 
+                    [user_registered] => 2016-05-13 02:59:00
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Scott Duplantis
+                )
+
+            [ID] => 1947
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 4
+            [mb_first_name] => Scott
+            [mb_last_name] => Duplantis
+            [mb_birthday] => 1979-09-25
+            [mb_email] => scott.duplantis@morganstanley.com
+            [mb_phone] => 985-869-2097
+            [mb_occupation] => Wealth Management Financial Advisor
+            [mb_addr1] => 7901 Adelaide Dr
+            [mb_addr2] => 
+            [mb_city] => austin
+            [mb_state] => TX
+            [mb_zip] => 78739
+            [sp_first_name] => Vicki
+            [sp_last_name] => Duplantis
+            [sp_birthday] => 1981-07-31
+            [sp_email] => vicki.duplantis@gmail.com
+            [sp_phone] => 512-695-6776
+            [sp_relationship] => 2
+            [c1_first_name] => Talon
+            [c1_last_name] => Duplantis
+            [c1_birthday] => 2012-04-28
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => Drake
+            [c2_last_name] => Duplantis
+            [c2_birthday] => 2014-06-06
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => scott.duplantis@morganstanley.com
+    [login] => scodupl
+    [ip] => 107.220.57.119
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Scott
+    [lname] => Duplantis
+    [name] => Scott Duplantis
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1599pm0cppn4fo50huun2vmdu4
+            [_ga] => GA1.2.823063626.1463108066
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Thu May 12th, 2016 @ precisely 10:23 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.86 MB :: Real Memory 49.25 MB :: Peak Memory 49.00 MB :: Real Peak Memory 49.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
+Array
+(
+    [user_id] => 1949
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1949
+                    [user_login] => janwest
+                    [user_pass] => $P$BPmrAm7db1oiNdA5.ubTk.vD9d65oU/
+                    [user_nicename] => janet-weston
+                    [user_email] => jwestoninteriors@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-05-13 03:23:12
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Janet Weston
+                )
+
+            [ID] => 1949
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Janet
+            [mb_last_name] => Weston
+            [mb_birthday] => 10/29/60
+            [mb_email] => jwestoninteriors@yahoo.com
+            [mb_phone] => 512-925-6145
+            [mb_occupation] => Interior Design Godess
+            [mb_addr1] => 2137 Paradise Ridge Dr
+            [mb_addr2] => 
+            [mb_city] => Round Rock
+            [mb_state] => TX
+            [mb_zip] => 78665
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => jwestoninteriors@yahoo.com
+    [login] => janwest
+    [ip] => 184.21.123.97
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Janet
+    [lname] => Weston
+    [name] => Janet Weston
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => l2u1tvpb0s7mpgb1k27t01qom1
+            [_ga] => GA1.2.65758606.1463109056
+        )
+
+)
+
+LOG ENTRY: Fri May 13th, 2016 @ precisely 10:19 am America/Chicago
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 49.28 MB :: Real Memory 49.50 MB :: Peak Memory 49.42 MB :: Real Peak Memory 49.50 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU4TL-44) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36
+Array
+(
+    [user_id] => 1950
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1950
+                    [user_login] => niccass
+                    [user_pass] => $P$BO8IAByp3TqzmmOcoLHOwHeB29EfLc0
+                    [user_nicename] => nicholas-cassioppi
+                    [user_email] => ncassioppi@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-05-13 15:19:51
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Nicholas Cassioppi
+                )
+
+            [ID] => 1950
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Nicholas
+            [mb_last_name] => Cassioppi
+            [mb_birthday] => 2016-10-12
+            [mb_email] => ncassioppi@yahoo.com
+            [mb_phone] => 8155436915
+            [mb_occupation] => Sales
+            [mb_addr1] => 16305 mcaloon way
+            [mb_addr2] => 
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78728
+            [sp_first_name] => Carmen
+            [sp_last_name] => Solorio
+            [sp_birthday] => 2014-01-10
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => ncassioppi@yahoo.com
+    [login] => niccass
+    [ip] => 70.195.194.232
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Nicholas
+    [lname] => Cassioppi
+    [name] => Nicholas Cassioppi
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => lasrg9nf8mogkfodu32b3mlh13
+            [_gat] => 1
+            [_ga] => GA1.2.1424114667.1463152704
+        )
+
+)
+
+LOG ENTRY: Sat May 14th, 2016 @ precisely 9:22 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 55.61 MB :: Real Memory 56.25 MB :: Peak Memory 55.76 MB :: Real Peak Memory 56.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13E238 [FBAN/FBIOS;FBAV/55.0.0.40.137;FBBV/29582208;FBRV/0;FBDV/iPhone7,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.3.1;FBSS/3;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5]
+Array
+(
+    [user_id] => 1951
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1951
+                    [user_login] => linmcad
+                    [user_pass] => $P$BT/uReAT89l9C44q3tAAMhXaXgyeCE1
+                    [user_nicename] => linda-mcadoo
+                    [user_email] => coffee_88@aol.com
+                    [user_url] => 
+                    [user_registered] => 2016-05-15 02:22:47
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Linda Mcadoo
+                )
+
+            [ID] => 1951
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Linda
+            [mb_last_name] => McAdoo
+            [mb_birthday] => 1976-01-10
+            [mb_email] => coffee_88@aol.com
+            [mb_phone] => 5128761946
+            [mb_occupation] => Pools
+            [mb_addr1] => 1307 Chalk Lane
+            [mb_addr2] => 
+            [mb_city] => Cedar Park
+            [mb_state] => TX
+            [mb_zip] => 78613
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => coffee_88@aol.com
+    [login] => linmcad
+    [ip] => 24.28.12.92
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Linda
+    [lname] => Mcadoo
+    [name] => Linda Mcadoo
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => vgcnm6tdjsqcae16ucru17k0e2
+            [_ga] => GA1.2.1952665180.1463278133
+        )
+
+)
+
+LOG ENTRY: Wed Jun 1st, 2016 @ precisely 3:21 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 56.40 MB :: Real Memory 57.25 MB :: Peak Memory 56.61 MB :: Real Peak Memory 57.25 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+Array
+(
+    [user_id] => 1952
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1952
+                    [user_login] => cindy.d
+                    [user_pass] => $P$B7NhNuNljC9J2BTBnW.Ak0Ud.53dgA.
+                    [user_nicename] => cindy-d
+                    [user_email] => cindy.d@sbcgobal.net
+                    [user_url] => 
+                    [user_registered] => 2016-06-01 15:21:36
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => cindy.d
+                )
+
+            [ID] => 1952
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Cynthia
+            [billing_last_name] => Davis
+            [billing_company] => 
+            [billing_email] => cindy.d@sbcgobal.net
+            [billing_phone] => 8173126598
+            [billing_country] => US
+            [billing_address_1] => 10600 Sunday Dr
+            [billing_address_2] => 
+            [billing_city] => Ausin
+            [billing_state] => TX
+            [billing_postcode] => 78747
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => Cindy
+            [last_name_2] => Davis
+            [club_affiliation_2] => 
+            [cc_cruise_2] => 
+            [first_name_3] => Jeff
+            [last_name_3] => Davis
+            [club_affiliation_3] => 
+            [cc_cruise_3] => 
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => cheque
+            [_wpnonce] => 72bda63fc1
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => cindy.d@sbcgobal.net
+    [login] => cindy.d
+    [ip] => 104.57.179.205
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => cindy.d
+    [lname] => 
+    [name] => cindy.d
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => ihjrpn03ja44c2379goc5f69f6
+            [woocommerce_items_in_cart] => 1
+            [woocommerce_cart_hash] => 563449b1b241173060eee29eca0edd1a
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => 4773e072e65637b544eb4b536e611171||1464966605||1464963005||0b33232a86667d16d3de1fd5f9ccb050
+            [_ga] => GA1.2.733804193.1464793726
+        )
+
+)
+
+LOG ENTRY: Wed Jun 1st, 2016 @ precisely 4:34 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 56.36 MB :: Real Memory 56.75 MB :: Peak Memory 56.53 MB :: Real Peak Memory 56.75 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Array
+(
+    [user_id] => 1953
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1953
+                    [user_login] => sharonw
+                    [user_pass] => $P$BJGNVjXDUaqhYFWquF8bFriQxYTppf/
+                    [user_nicename] => sharonw
+                    [user_email] => sharonw@eyecaretyler.com
+                    [user_url] => 
+                    [user_registered] => 2016-06-01 16:34:57
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => sharonw
+                )
+
+            [ID] => 1953
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Sharon
+            [billing_last_name] => Willey
+            [billing_company] => Rose City Parrot Head
+            [billing_email] => sharonw@eyecaretyler.com
+            [billing_phone] => 903-570-6400
+            [billing_country] => US
+            [billing_address_1] => 15581 Wilkinson Dr
+            [billing_address_2] => 
+            [billing_city] => tyler
+            [billing_state] => TX
+            [billing_postcode] => 75707
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => Sharon
+            [last_name_2] => Willey
+            [club_affiliation_2] => Rose City
+            [cc_cruise_2] => 
+            [first_name_3] => Michael
+            [last_name_3] => Willey
+            [club_affiliation_3] => Rose city
+            [cc_cruise_3] => 
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => cheque
+            [_wpnonce] => 4a32f24d70
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => sharonw@eyecaretyler.com
+    [login] => sharonw
+    [ip] => 66.76.33.126
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => sharonw
+    [lname] => 
+    [name] => sharonw
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => jmhss2cki59hdrsuuas6shhbg5
+            [woocommerce_items_in_cart] => 1
+            [woocommerce_cart_hash] => 98f3dadd833f6a8f69f17573aa467297
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => 9ac1db96c7305cb49445c1fd50fb27d6||1464970683||1464967083||aa897bf69b9db72a8159c40ca5d3e881
+            [_ga] => GA1.2.271521038.1464786365
+        )
+
+)
+
+LOG ENTRY: Wed Jun 1st, 2016 @ precisely 7:05 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 56.35 MB :: Real Memory 56.75 MB :: Peak Memory 56.52 MB :: Real Peak Memory 56.75 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Array
+(
+    [user_id] => 1954
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1954
+                    [user_login] => tiltedtins
+                    [user_pass] => $P$Bdo1YKMiFuwHUJqZ5qYpPUDmJqvBtW.
+                    [user_nicename] => tiltedtins
+                    [user_email] => tiltedtins@hotmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-06-01 19:05:22
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => tiltedtins
+                )
+
+            [ID] => 1954
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Jeffrey
+            [billing_last_name] => Brand
+            [billing_company] => Canyon Lake Parrot Head Club
+            [billing_email] => tiltedtins@hotmail.com
+            [billing_phone] => 7132405597
+            [billing_country] => US
+            [billing_address_1] => 331 rocky Lane
+            [billing_address_2] => 
+            [billing_city] => Spring Branch
+            [billing_state] => TX
+            [billing_postcode] => 78070
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => Jeffrey
+            [last_name_2] => Brand
+            [club_affiliation_2] => Canyon Lake
+            [cc_cruise_2] => y
+            [first_name_3] => Annette
+            [last_name_3] => Brand
+            [club_affiliation_3] => Canyon Lake
+            [cc_cruise_3] => y
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => cheque
+            [_wpnonce] => b4ecc3b1a0
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => tiltedtins@hotmail.com
+    [login] => tiltedtins
+    [ip] => 96.8.148.241
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => tiltedtins
+    [lname] => 
+    [name] => tiltedtins
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => rnplv5pmcgreu5i05badrgrhl4
+            [woocommerce_items_in_cart] => 1
+            [woocommerce_cart_hash] => 370a2f440c8b8a6e7c339d84d30ea06f
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => 8eb6939bb6cf52559cb34a65c80ba8f6||1464966667||1464963067||0672d1e3451b14a8c65e8f1e17f8271a
+            [_ga] => GA1.2.1240004919.1464793729
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Thu Jun 2nd, 2016 @ precisely 1:03 am UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 56.38 MB :: Real Memory 56.75 MB :: Peak Memory 56.55 MB :: Real Peak Memory 56.75 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/15.1.122860578 Mobile/13F69 Safari/600.1.4
+Array
+(
+    [user_id] => 1955
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1955
+                    [user_login] => dbwcnewman
+                    [user_pass] => $P$BDeoTUSWKsNyUj58hnMWvoB5Npbdzo.
+                    [user_nicename] => dbwcnewman
+                    [user_email] => dbwcnewman@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-06-02 01:03:46
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => dbwcnewman
+                )
+
+            [ID] => 1955
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Brenda
+            [billing_last_name] => Newman
+            [billing_company] => 
+            [billing_email] => dbwcnewman@yahoo.com
+            [billing_phone] => 5127574137
+            [billing_country] => US
+            [billing_address_1] => 200 Lost Falls Cove
+            [billing_address_2] => 
+            [billing_city] => Wimberley
+            [billing_state] => TX
+            [billing_postcode] => 78676
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => Brenda
+            [last_name_2] => Newman
+            [club_affiliation_2] => Canyon Lake PHC
+            [cc_cruise_2] => y
+            [first_name_3] => 
+            [last_name_3] => 
+            [club_affiliation_3] => 
+            [cc_cruise_3] => 
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => paypal
+            [_wpnonce] => 9ce4771505
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => dbwcnewman@yahoo.com
+    [login] => dbwcnewman
+    [ip] => 38.122.48.162
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => dbwcnewman
+    [lname] => 
+    [name] => dbwcnewman
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => fn5eih7t1cb76us5cl47oict87
+            [_ga] => GA1.2.387047103.1464829210
+            [_gat] => 1
+            [woocommerce_items_in_cart] => 1
+            [woocommerce_cart_hash] => b3eac47ca1427163b747f239a7f9499b
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => dee0e9c112a9b36f52995e3dce1058a5||1465002032||1464998432||a40a087ec755381d635cc5db5620a8fe
+        )
+
+)
+
+LOG ENTRY: Sat Jun 11th, 2016 @ precisely 2:21 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 56.41 MB :: Real Memory 57.00 MB :: Peak Memory 56.62 MB :: Real Peak Memory 57.00 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+Array
+(
+    [user_id] => 1956
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1956
+                    [user_login] => hoppjerry1947
+                    [user_pass] => $P$BYyITVwg0CqNiRseDizLUAfmNRoyu0.
+                    [user_nicename] => hoppjerry1947
+                    [user_email] => hoppjerry1947@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-06-11 14:21:53
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => hoppjerry1947
+                )
+
+            [ID] => 1956
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Jerry
+            [billing_last_name] => Hopp
+            [billing_company] => 
+            [billing_email] => hoppjerry1947@yahoo.com
+            [billing_phone] => 210-392-8885
+            [billing_country] => US
+            [billing_address_1] => 305 Elmwood Dr
+            [billing_address_2] => 
+            [billing_city] => New Braunfels
+            [billing_state] => TX
+            [billing_postcode] => 78130
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => Jerry
+            [last_name_2] => Hopp
+            [club_affiliation_2] => Saphc
+            [cc_cruise_2] => y
+            [first_name_3] => Karen
+            [last_name_3] => Schumann
+            [club_affiliation_3] => Saphc
+            [cc_cruise_3] => y
+            [first_name_4] => Babs
+            [last_name_4] => Lampis
+            [club_affiliation_4] => Saphc
+            [cc_cruise_4] => y
+            [payment_method] => cheque
+            [_wpnonce] => 80855b4e32
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => hoppjerry1947@yahoo.com
+    [login] => hoppjerry1947
+    [ip] => 75.1.42.26
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => hoppjerry1947
+    [lname] => 
+    [name] => hoppjerry1947
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => r1bor8sjfe5gtos35udkj02125
+            [woocommerce_cart_hash] => 0dc1af9c2370df1a746ae50004858b3a
+            [woocommerce_items_in_cart] => 1
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => af06d7a385a13e3f690a6c365246a0f2||1465827282||1465823682||4566adb0e6adcdff8830c9e6f51b8c60
+            [_ga] => GA1.2.1964717176.1465654447
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Sat Jul 16th, 2016 @ precisely 7:44 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.17 MB :: Real Memory 60.75 MB :: Peak Memory 60.32 MB :: Real Peak Memory 60.75 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+Array
+(
+    [user_id] => 1957
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1957
+                    [user_login] => linpfaf
+                    [user_pass] => $P$BvyNcO/FjyBtGeocmpfu1wbCK6hIjP/
+                    [user_nicename] => lindsy-pfaff
+                    [user_email] => linzloo662@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-17 00:44:41
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Lindsy Pfaff
+                )
+
+            [ID] => 1957
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Lindsy
+            [mb_last_name] => Pfaff
+            [mb_birthday] => 1986-06-18
+            [mb_email] => linzloo662@gmail.com
+            [mb_phone] => 5124134894
+            [mb_occupation] => Estimator
+            [mb_addr1] => 300 Dana drive
+            [mb_addr2] => 
+            [mb_city] => Hutto
+            [mb_state] => TX
+            [mb_zip] => 78634
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => linzloo662@gmail.com
+    [login] => linpfaf
+    [ip] => 107.77.64.27
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Lindsy
+    [lname] => Pfaff
+    [name] => Lindsy Pfaff
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => ps3a4i5eh7ecs3ubtu2ee86916
+            [_ga] => GA1.2.976679625.1460301698
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Sat Jul 16th, 2016 @ precisely 9:24 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.19 MB :: Real Memory 60.75 MB :: Peak Memory 60.34 MB :: Real Peak Memory 60.75 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+Array
+(
+    [user_id] => 1958
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1958
+                    [user_login] => docholi
+                    [user_pass] => $P$BoUO5Sb5QINb7bEIjpPxEGhJY46i95.
+                    [user_nicename] => doc-holiday
+                    [user_email] => doc@holiday.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-17 02:24:23
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Doc Holiday
+                )
+
+            [ID] => 1958
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Doc
+            [mb_last_name] => Holiday
+            [mb_birthday] => 1961-10-30
+            [mb_email] => doc@holiday.com
+            [mb_phone] => 5124441212
+            [mb_occupation] => Gun Slinger
+            [mb_addr1] => 123 Main St
+            [mb_addr2] => 
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78728
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => doc@holiday.com
+    [login] => docholi
+    [ip] => 99.42.98.38
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Doc
+    [lname] => Holiday
+    [name] => Doc Holiday
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [__utma] => 175079280.1626986123.1407722903.1425167543.1433131526.7
+            [wp-settings-time-1573] => 1451707249
+            [wp-settings-9] => editor=html
+            [wp-settings-time-9] => 1468685208
+            [wp-settings-1709] => editor=tinymce&hidetb=1&ed_size=559&libraryContent=browse&align=center&imgsize=medium&urlbutton=none&dfw_width=822&advImgDetails=show&wplink=0&post_dfw=off&posts_list_mode=excerpt
+            [wp-settings-time-1709] => 1468687630
+            [PHPSESSID] => fkcojonjg57ov7h8cm4e9inpr2
+            [_ga] => GA1.2.1626986123.1407722903
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Sat Jul 16th, 2016 @ precisely 9:47 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.16 MB :: Real Memory 61.00 MB :: Peak Memory 60.31 MB :: Real Peak Memory 61.00 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+Array
+(
+    [user_id] => 1959
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1959
+                    [user_login] => docholi
+                    [user_pass] => $P$BH3/AcCn9SyFg3iNe5EdpuulTVkInk/
+                    [user_nicename] => doc-holiday
+                    [user_email] => doc@holiday.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-17 02:47:22
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Doc Holiday
+                )
+
+            [ID] => 1959
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Doc
+            [mb_last_name] => Holiday
+            [mb_birthday] => 1961-10-30
+            [mb_email] => doc@holiday.com
+            [mb_phone] => 5124441212
+            [mb_occupation] => Gun Slinger
+            [mb_addr1] => 123 Main St
+            [mb_addr2] => 
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78728
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => doc@holiday.com
+    [login] => docholi
+    [ip] => 99.42.98.38
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Doc
+    [lname] => Holiday
+    [name] => Doc Holiday
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [__utma] => 175079280.1626986123.1407722903.1425167543.1433131526.7
+            [wp-settings-time-1573] => 1451707249
+            [wp-settings-9] => editor=html
+            [wp-settings-time-9] => 1468685208
+            [wp-settings-1709] => editor=tinymce&hidetb=1&ed_size=559&libraryContent=browse&align=center&imgsize=medium&urlbutton=none&dfw_width=822&advImgDetails=show&wplink=0&post_dfw=off&posts_list_mode=excerpt
+            [wp-settings-time-1709] => 1468687630
+            [PHPSESSID] => fkcojonjg57ov7h8cm4e9inpr2
+            [_ga] => GA1.2.1626986123.1407722903
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Sat Jul 16th, 2016 @ precisely 10:00 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.17 MB :: Real Memory 61.00 MB :: Peak Memory 60.32 MB :: Real Peak Memory 61.00 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+Array
+(
+    [user_id] => 1960
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1960
+                    [user_login] => docholi
+                    [user_pass] => $P$BZJ7srnU2MOYxmuersFkttVZZmlB3g1
+                    [user_nicename] => doc-holiday
+                    [user_email] => doc@holiday.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-17 03:00:41
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Doc Holiday
+                )
+
+            [ID] => 1960
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Doc
+            [mb_last_name] => Holiday
+            [mb_birthday] => 1961-10-30
+            [mb_email] => doc@holiday.com
+            [mb_phone] => 5124441212
+            [mb_occupation] => Gun Slinger
+            [mb_addr1] => 123 Main St
+            [mb_addr2] => 
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78728
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => doc@holiday.com
+    [login] => docholi
+    [ip] => 99.42.98.38
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Doc
+    [lname] => Holiday
+    [name] => Doc Holiday
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [__utma] => 175079280.1626986123.1407722903.1425167543.1433131526.7
+            [wp-settings-time-1573] => 1451707249
+            [wp-settings-9] => editor=html
+            [wp-settings-time-9] => 1468685208
+            [wp-settings-1709] => editor=tinymce&hidetb=1&ed_size=559&libraryContent=browse&align=center&imgsize=medium&urlbutton=none&dfw_width=822&advImgDetails=show&wplink=0&post_dfw=off&posts_list_mode=excerpt
+            [wp-settings-time-1709] => 1468687630
+            [PHPSESSID] => fkcojonjg57ov7h8cm4e9inpr2
+            [_gat] => 1
+            [_ga] => GA1.2.1626986123.1407722903
+        )
+
+)
+
+LOG ENTRY: Tue Jul 19th, 2016 @ precisely 11:48 am America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.16 MB :: Real Memory 61.00 MB :: Peak Memory 60.31 MB :: Real Peak Memory 61.00 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+Array
+(
+    [user_id] => 1961
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1961
+                    [user_login] => timryan
+                    [user_pass] => $P$BYLgbsUjmPeGP1uy3Sj/K7Kpu8RARK.
+                    [user_nicename] => tim-ryan
+                    [user_email] => timryan2@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-19 16:48:39
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Tim Ryan
+                )
+
+            [ID] => 1961
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Tim
+            [mb_last_name] => Ryan
+            [mb_birthday] => 1984-09-26
+            [mb_email] => timryan2@gmail.com
+            [mb_phone] => 9496333773
+            [mb_occupation] => Real Estate Developer
+            [mb_addr1] => 809 S Lamar Blvd
+            [mb_addr2] => 503
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78704
+            [sp_first_name] => Gabby
+            [sp_last_name] => Ryan
+            [sp_birthday] => 1984-05-06
+            [sp_email] => gabrielle.ryan11@gmail.com
+            [sp_phone] => 9496899418
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => timryan2@gmail.com
+    [login] => timryan
+    [ip] => 66.87.121.199
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Tim
+    [lname] => Ryan
+    [name] => Tim Ryan
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => rsic9e8jpuh0g8nrrkpms4nff4
+            [_ga] => GA1.2.262980598.1468944888
+        )
+
+)
+
+LOG ENTRY: Wed Jul 20th, 2016 @ precisely 9:05 am America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.22 MB :: Real Memory 61.00 MB :: Peak Memory 60.37 MB :: Real Peak Memory 61.00 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69 [FBAN/FBIOS;FBAV/59.0.0.51.142;FBBV/33266808;FBRV/0;FBDV/iPhone8,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.3.2;FBSS/3;FBCR/Sprint;FBID/phone;FBLC/en_US;FBOP/5]
+Array
+(
+    [user_id] => 1963
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1963
+                    [user_login] => janwils
+                    [user_pass] => $P$BrHD50qg462hqHlygxjOAhAyaLIv7Q/
+                    [user_nicename] => jana-wilson
+                    [user_email] => janadwilson@hotmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-20 14:05:26
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Jana Wilson
+                )
+
+            [ID] => 1963
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 4
+            [mb_first_name] => Jana
+            [mb_last_name] => Wilson
+            [mb_birthday] => 1974-07-05
+            [mb_email] => janadwilson@hotmail.com
+            [mb_phone] => 2146876091
+            [mb_occupation] => Real Estate Agent
+            [mb_addr1] => 1402 Faustino Cove
+            [mb_addr2] => 
+            [mb_city] => Leander
+            [mb_state] => TX
+            [mb_zip] => 78641
+            [sp_first_name] => Raymond
+            [sp_last_name] => Wilson
+            [sp_birthday] => 1972-07-25
+            [sp_email] => 
+            [sp_phone] => 4804151141
+            [sp_relationship] => 2
+            [c1_first_name] => Morgan
+            [c1_last_name] => Wilson
+            [c1_birthday] => 2002-12-21
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => janadwilson@hotmail.com
+    [login] => janwils
+    [ip] => 66.87.120.108
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Jana
+    [lname] => Wilson
+    [name] => Jana Wilson
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => ilfitum1pj108qdvov2dej42v5
+            [_ga] => GA1.2.1819290640.1469023233
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Wed Jul 20th, 2016 @ precisely 10:50 am America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.21 MB :: Real Memory 61.00 MB :: Peak Memory 60.36 MB :: Real Peak Memory 61.00 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-G870A Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
+Array
+(
+    [user_id] => 1964
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1964
+                    [user_login] => douthor
+                    [user_pass] => $P$BDX2hlX//K2VvAtztsWJjlQW96aoRy0
+                    [user_nicename] => douglas-thorp
+                    [user_email] => thorpd01@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-20 15:50:07
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Douglas Thorp
+                )
+
+            [ID] => 1964
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Douglas
+            [mb_last_name] => Thorp
+            [mb_birthday] => 1956-09-01
+            [mb_email] => thorpd01@gmail.com
+            [mb_phone] => 5124662033
+            [mb_occupation] => Retired
+            [mb_addr1] => P.O. Box 358
+            [mb_addr2] => C.R. 251 lot 2160
+            [mb_city] => Florence
+            [mb_state] => TX
+            [mb_zip] => 76527
+            [sp_first_name] => Thorp
+            [sp_last_name] => Sue
+            [sp_birthday] => 1962-06-29
+            [sp_email] => thorpd01@gmail.com
+            [sp_phone] => 5124339865
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => thorpd01@gmail.com
+    [login] => douthor
+    [ip] => 107.77.100.119
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Douglas
+    [lname] => Thorp
+    [name] => Douglas Thorp
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => u2aa8aopiqlomns09kfduqt3q0
+            [_gat] => 1
+            [_ga] => GA1.2.1470754514.1469029623
+        )
+
+)
+
+LOG ENTRY: Sat Jul 23rd, 2016 @ precisely 3:00 pm America/Chicago
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.21 MB :: Real Memory 61.00 MB :: Peak Memory 60.36 MB :: Real Peak Memory 61.00 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+Array
+(
+    [user_id] => 1965
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1965
+                    [user_login] => kenorze
+                    [user_pass] => $P$BYKJ1SA2aPqVpIqU20wyuapieoGtsv.
+                    [user_nicename] => ken-orze
+                    [user_email] => k.orze@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-23 20:00:43
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Ken Orze
+                )
+
+            [ID] => 1965
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Ken
+            [mb_last_name] => Orze
+            [mb_birthday] => 
+            [mb_email] => k.orze@yahoo.com
+            [mb_phone] => 7377773205
+            [mb_occupation] => 
+            [mb_addr1] => 2120 Tribal Way
+            [mb_addr2] => 
+            [mb_city] => Leander
+            [mb_state] => TX
+            [mb_zip] => 78641
+            [sp_first_name] => Marge
+            [sp_last_name] => Orze
+            [sp_birthday] => 
+            [sp_email] => k.orze@yahoo.com
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => k.orze@yahoo.com
+    [login] => kenorze
+    [ip] => 104.188.173.179
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Ken
+    [lname] => Orze
+    [name] => Ken Orze
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => o4sl3666j0ptkm510elepm9nk3
+            [_gat] => 1
+            [_ga] => GA1.2.238102737.1469204761
+        )
+
+)
+
+LOG ENTRY: Fri Jul 29th, 2016 @ precisely 4:45 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 60.24 MB :: Real Memory 61.25 MB :: Peak Memory 60.43 MB :: Real Peak Memory 61.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.4; XT1030 Build/SU6-7.7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
+Array
+(
+    [user_id] => 1966
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1966
+                    [user_login] => stemark
+                    [user_pass] => $P$Bl8ahtRDKd.je1XmST1JL5QenOq.lX.
+                    [user_nicename] => steve-marks
+                    [user_email] => stevemarkslaw@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-29 21:45:14
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Steve Marks
+                )
+
+            [ID] => 1966
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Steve
+            [mb_last_name] => Marks
+            [mb_birthday] => 1947-08-30
+            [mb_email] => stevemarkslaw@gmail.com
+            [mb_phone] => 8045172102
+            [mb_occupation] => Retired
+            [mb_addr1] => 105 Lost Peak Path
+            [mb_addr2] => 
+            [mb_city] => Georgetown
+            [mb_state] => TX
+            [mb_zip] => 78633
+            [sp_first_name] => Teresa
+            [sp_last_name] => Marks
+            [sp_birthday] => 1963-03-20
+            [sp_email] => teresadixon1@gmail.com
+            [sp_phone] => 8043017865
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => stevemarkslaw@gmail.com
+    [login] => stemark
+    [ip] => 50.192.73.249
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Steve
+    [lname] => Marks
+    [name] => Steve Marks
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => t40aua28k6iljd377t4ntoakj7
+            [_gat] => 1
+            [_ga] => GA1.2.1153970370.1469828204
+        )
+
+)
+
+LOG ENTRY: Sun Jul 31st, 2016 @ precisely 11:57 pm UTC
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.80 MB :: Real Memory 60.75 MB :: Peak Memory 59.97 MB :: Real Peak Memory 60.75 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Array
+(
+    [user_id] => 1968
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1968
+                    [user_login] => morethunder
+                    [user_pass] => $P$BCiZX70XTVKHJ4y2VZvyQ989RYxnfv0
+                    [user_nicename] => morethunder
+                    [user_email] => morethunder@aol.com
+                    [user_url] => 
+                    [user_registered] => 2016-07-31 23:57:01
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => morethunder
+                )
+
+            [ID] => 1968
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Tisha
+            [billing_last_name] => Bucanek
+            [billing_company] => Thunder Road Paint & Body
+            [billing_email] => morethunder@aol.com
+            [billing_phone] => 5122446353
+            [billing_country] => US
+            [billing_address_1] => 1522 Lorson Loop
+            [billing_address_2] => 
+            [billing_city] => Round Rock
+            [billing_state] => TX
+            [billing_postcode] => 78665
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => Tisha
+            [last_name_2] => Bucanek
+            [club_affiliation_2] => 
+            [cc_cruise_2] => n
+            [first_name_3] => Charles
+            [last_name_3] => Bucanek
+            [club_affiliation_3] => 
+            [cc_cruise_3] => n
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => paypal
+            [_wpnonce] => ac5c9ad6be
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => morethunder@aol.com
+    [login] => morethunder
+    [ip] => 70.114.140.115
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => morethunder
+    [lname] => 
+    [name] => morethunder
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [_ga] => GA1.2.430132122.1469999415
+            [PHPSESSID] => 7a3ad56knngm1hsnqpqk03lt95
+            [_gat] => 1
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => b1cc592fae6562bdf3ea13dca62516e7||1470172295||1470168695||8e5707ca53c0a21b97ae671513ae29e4
+            [woocommerce_items_in_cart] => 1
+            [woocommerce_cart_hash] => c1b3e461036217ebac803d57454e8c00
+        )
+
+)
+
+LOG ENTRY: Sat Aug 13th, 2016 @ precisely 1:18 am UTC
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160801 :: s2Member Pro v160801
+Memory 59.80 MB :: Real Memory 60.00 MB :: Peak Memory 59.98 MB :: Real Peak Memory 60.00 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G34 Safari/601.1
+Array
+(
+    [user_id] => 1969
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1969
+                    [user_login] => lbloomquist2
+                    [user_pass] => $P$B8MH.5cj4uRW/WdVWjwdAgvMBoKeJx/
+                    [user_nicename] => lbloomquist2
+                    [user_email] => lbloomquist2@aol.com
+                    [user_url] => 
+                    [user_registered] => 2016-08-13 01:18:40
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => lbloomquist2
+                )
+
+            [ID] => 1969
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Linda
+            [billing_last_name] => Bloomquist
+            [billing_company] => 
+            [billing_email] => lbloomquist2@aol.com
+            [billing_phone] => 5128181898
+            [billing_country] => US
+            [billing_address_1] => 103 Rio Concho Cove
+            [billing_address_2] => 
+            [billing_city] => Georgetown
+            [billing_state] => TX
+            [billing_postcode] => 78633
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => 
+            [last_name_2] => 
+            [club_affiliation_2] => 
+            [cc_cruise_2] => 
+            [first_name_3] => 
+            [last_name_3] => 
+            [club_affiliation_3] => 
+            [cc_cruise_3] => 
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => paypal
+            [_wpnonce] => 5eae8952ee
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => lbloomquist2@aol.com
+    [login] => lbloomquist2
+    [ip] => 74.194.219.83
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => lbloomquist2
+    [lname] => 
+    [name] => lbloomquist2
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => jsf1dltjs55c2uk6aalck0soo6
+            [woocommerce_cart_hash] => 370a2f440c8b8a6e7c339d84d30ea06f
+            [woocommerce_items_in_cart] => 1
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => eb78c3426318c48a32601e974db50b2c||1471223697||1471220097||6423de19a47f448daccfceb4fadb71e9
+            [_ga] => GA1.2.1885269169.1471050848
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Tue Aug 16th, 2016 @ precisely 2:25 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160801 :: s2Member Pro v160801
+Memory 60.31 MB :: Real Memory 60.75 MB :: Peak Memory 60.46 MB :: Real Peak Memory 60.75 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+Array
+(
+    [user_id] => 1970
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1970
+                    [user_login] => jefacto
+                    [user_pass] => $P$BDiEd.E2cAMBSfT74j1BReo/6BBDiW0
+                    [user_nicename] => jeff-acton
+                    [user_email] => jeffacton1@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-08-16 19:25:38
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Jeff Acton
+                )
+
+            [ID] => 1970
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Jeff
+            [mb_last_name] => Acton
+            [mb_birthday] => 1968-11-08
+            [mb_email] => jeffacton1@gmail.com
+            [mb_phone] => 512-587-1149
+            [mb_occupation] => Engineer
+            [mb_addr1] => 3717 Holden Ct
+            [mb_addr2] => 
+            [mb_city] => Round Rock
+            [mb_state] => TX
+            [mb_zip] => 78665
+            [sp_first_name] => Melissa
+            [sp_last_name] => McCoy
+            [sp_birthday] => 1965-10-19
+            [sp_email] => missymccoy123@gmail.com
+            [sp_phone] => 713-534-7273
+            [sp_relationship] => 3
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => jeffacton1@gmail.com
+    [login] => jefacto
+    [ip] => 12.169.105.162
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Jeff
+    [lname] => Acton
+    [name] => Jeff Acton
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 9mm94sfs030msb0gbefsdfjru7
+            [_ga] => GA1.2.1974397016.1468869343
+        )
+
+)
+
+LOG ENTRY: Tue Aug 16th, 2016 @ precisely 8:49 pm UTC
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160801 :: s2Member Pro v160801
+Memory 59.84 MB :: Real Memory 60.25 MB :: Peak Memory 60.01 MB :: Real Peak Memory 60.25 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+Array
+(
+    [user_id] => 1972
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1972
+                    [user_login] => lindaschuk
+                    [user_pass] => $P$B7xPiHP39EF9ER9k0zKrAbffHq4O6x.
+                    [user_nicename] => lindaschuk
+                    [user_email] => lindaschuk@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-08-16 20:49:35
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => lindaschuk
+                )
+
+            [ID] => 1972
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Linda
+            [billing_last_name] => Schuk
+            [billing_company] => 
+            [billing_email] => lindaschuk@gmail.com
+            [billing_phone] => 210-219-8532
+            [billing_country] => US
+            [billing_address_1] => 5046 Mayspring Ave.
+            [billing_address_2] => 
+            [billing_city] => San Antonio
+            [billing_state] => TX
+            [billing_postcode] => 78217
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => 
+            [last_name_2] => 
+            [club_affiliation_2] => 
+            [cc_cruise_2] => 
+            [first_name_3] => 
+            [last_name_3] => 
+            [club_affiliation_3] => 
+            [cc_cruise_3] => 
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => paypal
+            [_wpnonce] => 44b2456d75
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => lindaschuk@gmail.com
+    [login] => lindaschuk
+    [ip] => 205.143.204.110
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => lindaschuk
+    [lname] => 
+    [name] => lindaschuk
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => ticro3v5pr11f93ia1asilgtq5
+            [_gat] => 1
+            [_ga] => GA1.2.1330044519.1471380389
+            [woocommerce_items_in_cart] => 1
+            [woocommerce_cart_hash] => 1a010d2bec32c57e7b9b8fb98030f97f
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => 29e80f7551db0f8357b9e8cf5e0bff38||1471553214||1471549614||039dc23da6d1f5c1a7189f1a31c31794
+        )
+
+)
+
+LOG ENTRY: Wed Aug 17th, 2016 @ precisely 4:10 pm UTC
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160801 :: s2Member Pro v160801
+Memory 59.82 MB :: Real Memory 60.75 MB :: Peak Memory 59.99 MB :: Real Peak Memory 60.75 MB
+www.ctxphc.com/checkout/?wc-ajax=checkout
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Array
+(
+    [user_id] => 1973
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1973
+                    [user_login] => lisamkchristensen
+                    [user_pass] => $P$ByhRlvyjvzw05j4NMnIiLiZTlj8unI.
+                    [user_nicename] => lisamkchristensen
+                    [user_email] => lisamkchristensen@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-08-17 16:10:25
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => lisamkchristensen
+                )
+
+            [ID] => 1973
+            [caps] => Array
+                (
+                    [customer] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => customer
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [customer] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [billing_first_name] => Lisa
+            [billing_last_name] => Christensen
+            [billing_company] => 
+            [billing_email] => lisamkchristensen@gmail.com
+            [billing_phone] => 7734548705
+            [billing_country] => US
+            [billing_address_1] => 4800 Steiner Ranch Blvd 12303
+            [billing_address_2] => 
+            [billing_city] => Austin
+            [billing_state] => TX
+            [billing_postcode] => 78732
+            [createaccount] => 1
+            [order_comments] => 
+            [first_name_2] => Lisa
+            [last_name_2] => Christensen
+            [club_affiliation_2] => North Austin Social Club
+            [cc_cruise_2] => y
+            [first_name_3] => Lisa
+            [last_name_3] => Christensen
+            [club_affiliation_3] => 
+            [cc_cruise_3] => 
+            [first_name_4] => 
+            [last_name_4] => 
+            [club_affiliation_4] => 
+            [cc_cruise_4] => 
+            [payment_method] => paypal
+            [_wpnonce] => 2f53a22c27
+            [_wp_http_referer] => /checkout/?wc-ajax=update_order_review
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => customer
+    [role] => customer
+    [level] => 0
+    [ccaps] => 
+    [email] => lisamkchristensen@gmail.com
+    [login] => lisamkchristensen
+    [ip] => 107.216.43.207
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => lisamkchristensen
+    [lname] => 
+    [name] => lisamkchristensen
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => qhf65k1sbn1l38pi2q12ljhcp2
+            [woocommerce_items_in_cart] => 1
+            [woocommerce_cart_hash] => cfd75b0ebcc0e977a379b38b0b1a9111
+            [wp_woocommerce_session_2c586fb6d3394be598436a22fa84121c] => d865de4e21bc03ca40ed02a67d1b812e||1471622934||1471619334||bfc428d6581c496df7569f04eeafbfed
+            [_ga] => GA1.2.1399658615.1471450064
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Wed Aug 17th, 2016 @ precisely 4:43 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.6 :: s2Member v160801 :: s2Member Pro v160801
+Memory 60.94 MB :: Real Memory 61.75 MB :: Peak Memory 61.09 MB :: Real Peak Memory 61.75 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+Array
+(
+    [user_id] => 1974
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1974
+                    [user_login] => brybrit
+                    [user_pass] => $P$BHUsBCjKE9TC26D0qAgsnYx7ZUHte/0
+                    [user_nicename] => bryan-brittain
+                    [user_email] => brittain46@aol.com
+                    [user_url] => 
+                    [user_registered] => 2016-08-17 21:43:06
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Bryan Brittain
+                )
+
+            [ID] => 1974
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Bryan
+            [mb_last_name] => Brittain
+            [mb_birthday] => 1960-10-05
+            [mb_email] => brittain46@aol.com
+            [mb_phone] => 9403673801
+            [mb_occupation] => Retired Teacher Coach
+            [mb_addr1] => 3709 Alamo Cv
+            [mb_addr2] => 
+            [mb_city] => Lago Vista
+            [mb_state] => TX
+            [mb_zip] => 78645
+            [sp_first_name] => Lori
+            [sp_last_name] => Walter
+            [sp_birthday] => 1962-11-05
+            [sp_email] => lwalter62@yahoo.com
+            [sp_phone] => 5054154728
+            [sp_relationship] => 3
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => brittain46@aol.com
+    [login] => brybrit
+    [ip] => 99.18.226.45
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Bryan
+    [lname] => Brittain
+    [name] => Bryan Brittain
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => gn1cif40bjdmsm36kk5p3i13j0
+            [_ga] => GA1.2.522398832.1470362965
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Fri Aug 19th, 2016 @ precisely 12:10 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.6 :: s2Member v160801 :: s2Member Pro v160801
+Memory 60.93 MB :: Real Memory 61.50 MB :: Peak Memory 61.08 MB :: Real Peak Memory 61.50 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Array
+(
+    [user_id] => 1976
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1976
+                    [user_login] => chaburg
+                    [user_pass] => $P$BKu5dBNf5KAHyi8vnqET6jeT4.S7Du/
+                    [user_nicename] => charli-burgess
+                    [user_email] => cb_7283@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-08-19 17:10:04
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Charli Burgess
+                )
+
+            [ID] => 1976
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Charli
+            [mb_last_name] => Burgess
+            [mb_birthday] => 06/03/1960
+            [mb_email] => cb_7283@yahoo.com
+            [mb_phone] => 512-431-6817
+            [mb_occupation] => Accountant
+            [mb_addr1] => PO Box 222
+            [mb_addr2] => 
+            [mb_city] => Thorndale
+            [mb_state] => TX
+            [mb_zip] => 76577
+            [sp_first_name] => Dwayne
+            [sp_last_name] => Burgess
+            [sp_birthday] => 10/22/1959
+            [sp_email] => dburgess59@yahoo.com
+            [sp_phone] => 512-417-7633
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => cb_7283@yahoo.com
+    [login] => chaburg
+    [ip] => 67.79.116.227
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Charli
+    [lname] => Burgess
+    [name] => Charli Burgess
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => a6264iash6c0kcqo163c4o0np2
+            [_ga] => GA1.2.181605674.1471626549
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Thu Sep 8th, 2016 @ precisely 2:05 am America/Chicago
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.64 MB :: Real Memory 53.25 MB :: Peak Memory 52.78 MB :: Real Peak Memory 53.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+Array
+(
+    [user_id] => 1978
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1978
+                    [user_login] => rankubi
+                    [user_pass] => $P$B0YV2zHfnKAfqiJcXRm4tGQEoa4eTL.
+                    [user_nicename] => randall-kubiak
+                    [user_email] => rwkubiak@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-09-08 07:05:55
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Randall Kubiak
+                )
+
+            [ID] => 1978
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Randall
+            [mb_last_name] => Kubiak
+            [mb_birthday] => 1966-04-10
+            [mb_email] => rwkubiak@yahoo.com
+            [mb_phone] => 512-750-2239
+            [mb_occupation] => Property Management
+            [mb_addr1] => 1003 Tremont dr
+            [mb_addr2] => 
+            [mb_city] => Cedar Park
+            [mb_state] => TX
+            [mb_zip] => 78613
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => rwkubiak@yahoo.com
+    [login] => rankubi
+    [ip] => 99.156.89.17
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Randall
+    [lname] => Kubiak
+    [name] => Randall Kubiak
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 4d4ias3uvbhohj3s334da3hkv6
+            [_ga] => GA1.2.463137707.1473318025
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Sat Sep 10th, 2016 @ precisely 12:58 am America/Chicago
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.64 MB :: Real Memory 53.50 MB :: Peak Memory 52.78 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Array
+(
+    [user_id] => 1979
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1979
+                    [user_login] => jodbatt
+                    [user_pass] => $P$BxRZQ9LJBHF3dGXbar8MHAV.dlt3Rx/
+                    [user_nicename] => jodi-batten-savoie
+                    [user_email] => jodibatten@aol.com
+                    [user_url] => 
+                    [user_registered] => 2016-09-10 05:58:36
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Jodi Batten Savoie
+                )
+
+            [ID] => 1979
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Jodi
+            [mb_last_name] => Batten Savoie
+            [mb_birthday] => 01/07/1962
+            [mb_email] => jodibatten@aol.com
+            [mb_phone] => 5126264980
+            [mb_occupation] => Sales & Marketing
+            [mb_addr1] => 510 Luna Vista Dr
+            [mb_addr2] => 
+            [mb_city] => The Hills
+            [mb_state] => TX
+            [mb_zip] => 78738
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => Sabrina
+            [c1_last_name] => Savoie
+            [c1_birthday] => 08/03/1998
+            [c1_relationship] => 4
+            [c1_email] => savoiesabrina@gmail.com
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => jodibatten@aol.com
+    [login] => jodbatt
+    [ip] => 198.59.53.9
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Jodi
+    [lname] => Batten Savoie
+    [name] => Jodi Batten Savoie
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => hiel63a2hp18ar7h4iscn44bo6
+            [_ga] => GA1.2.450637190.1473483090
+        )
+
+)
+
+LOG ENTRY: Sat Sep 17th, 2016 @ precisely 11:44 am America/Chicago
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.65 MB :: Real Memory 53.50 MB :: Peak Memory 52.79 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; 2PS64 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36
+Array
+(
+    [user_id] => 1981
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1981
+                    [user_login] => trarick
+                    [user_pass] => $P$BzzJKubphgOY8K/nFQtW/qli8KJ1Fs1
+                    [user_nicename] => tracy-ricks
+                    [user_email] => smithpointgirl@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-09-17 16:44:45
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Tracy Ricks
+                )
+
+            [ID] => 1981
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Tracy
+            [mb_last_name] => Ricks
+            [mb_birthday] => 1994-11-17
+            [mb_email] => smithpointgirl@gmail.com
+            [mb_phone] => 5126304465
+            [mb_occupation] => 
+            [mb_addr1] => 12242 Ranch Road 962 E
+            [mb_addr2] => 
+            [mb_city] => Round Mountain
+            [mb_state] => TX
+            [mb_zip] => 78663
+            [sp_first_name] => Chris
+            [sp_last_name] => Ricks
+            [sp_birthday] => 1989-09-23
+            [sp_email] => lucky13rr@gmail.com
+            [sp_phone] => 5127714418
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => smithpointgirl@gmail.com
+    [login] => trarick
+    [ip] => 66.87.120.8
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Tracy
+    [lname] => Ricks
+    [name] => Tracy Ricks
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => lmv7n9e5tihn3kngkn147fnhs2
+            [_gat] => 1
+            [_ga] => GA1.2.447520641.1474130213
+        )
+
+)
+
+LOG ENTRY: Mon Sep 26th, 2016 @ precisely 3:56 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.69 MB :: Real Memory 53.50 MB :: Peak Memory 52.83 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+Array
+(
+    [user_id] => 1983
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1983
+                    [user_login] => kelperr
+                    [user_pass] => $P$BeYKdWudfcb5l1zhFdadmFhglwz7lC.
+                    [user_nicename] => kelley-perry
+                    [user_email] => lkperry44@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-09-26 20:56:46
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Kelley Perry
+                )
+
+            [ID] => 1983
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Kelley
+            [mb_last_name] => Perry
+            [mb_birthday] => 1955-08-15
+            [mb_email] => lkperry44@yahoo.com
+            [mb_phone] => 281-507-0054
+            [mb_occupation] => Retired teacher/coach
+            [mb_addr1] => 307 Olmos Dr.
+            [mb_addr2] => 
+            [mb_city] => Leander
+            [mb_state] => TX
+            [mb_zip] => 78641
+            [sp_first_name] => Lee
+            [sp_last_name] => Perry
+            [sp_birthday] => 1955-02-08
+            [sp_email] => lkperry44@yahoo.com
+            [sp_phone] => 281-507-0054
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 2016-09-26
+            [c1_relationship] => 5
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => lkperry44@yahoo.com
+    [login] => kelperr
+    [ip] => 23.114.197.56
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Kelley
+    [lname] => Perry
+    [name] => Kelley Perry
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => j9lh2vg3habsv9gdtnkh9n1606
+            [_ga] => GA1.2.353047805.1474923010
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Mon Sep 26th, 2016 @ precisely 4:09 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.67 MB :: Real Memory 53.25 MB :: Peak Memory 52.81 MB :: Real Peak Memory 53.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+Array
+(
+    [user_id] => 1984
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1984
+                    [user_login] => trahogg
+                    [user_pass] => $P$Baeu/DC/62pWfx17hM152bRQuxFgS30
+                    [user_nicename] => traci-hoggatt
+                    [user_email] => hoggatttraci@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-09-26 21:09:45
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Traci Hoggatt
+                )
+
+            [ID] => 1984
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Traci
+            [mb_last_name] => Hoggatt
+            [mb_birthday] => 1960-09-16
+            [mb_email] => hoggatttraci@yahoo.com
+            [mb_phone] => 409-988-9767
+            [mb_occupation] => Operations Arlanxeo
+            [mb_addr1] => 720 Adam Cr.
+            [mb_addr2] => 
+            [mb_city] => Orange
+            [mb_state] => TX
+            [mb_zip] => 77630
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => hoggatttraci@yahoo.com
+    [login] => trahogg
+    [ip] => 23.114.197.56
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Traci
+    [lname] => Hoggatt
+    [name] => Traci Hoggatt
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => j9lh2vg3habsv9gdtnkh9n1606
+            [_ga] => GA1.2.353047805.1474923010
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Tue Sep 27th, 2016 @ precisely 3:39 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.67 MB :: Real Memory 53.50 MB :: Peak Memory 52.81 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Array
+(
+    [user_id] => 1985
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1985
+                    [user_login] => karhant
+                    [user_pass] => $P$BoQ/68bb3qZFfn4AqlyjNhZKSvokxT0
+                    [user_nicename] => karen-hanten
+                    [user_email] => rhanten@twc.com
+                    [user_url] => 
+                    [user_registered] => 2016-09-27 20:39:14
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Karen Hanten
+                )
+
+            [ID] => 1985
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Karen
+            [mb_last_name] => Hanten
+            [mb_birthday] => 1949-04-26
+            [mb_email] => rhanten@twc.com
+            [mb_phone] => 832-293-6189
+            [mb_occupation] => 
+            [mb_addr1] => 2716 Barton Creek Blvd
+            [mb_addr2] => 1711
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78735
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => rhanten@twc.com
+    [login] => karhant
+    [ip] => 24.27.8.209
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Karen
+    [lname] => Hanten
+    [name] => Karen Hanten
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => b1ug06gdh32skmt4jr0vjkaiv2
+            [_gat] => 1
+            [_ga] => GA1.2.968939078.1474321365
+        )
+
+)
+
+LOG ENTRY: Tue Oct 18th, 2016 @ precisely 3:56 pm America/Chicago
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.67 MB :: Real Memory 53.25 MB :: Peak Memory 52.81 MB :: Real Peak Memory 53.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+Array
+(
+    [user_id] => 1986
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1986
+                    [user_login] => andiver
+                    [user_pass] => $P$BQhr7wQAmjF/mrBnJc4e/F9etuv49V.
+                    [user_nicename] => andy-iverson
+                    [user_email] => andy@iversongroup.net
+                    [user_url] => 
+                    [user_registered] => 2016-10-18 20:56:36
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Andy Iverson
+                )
+
+            [ID] => 1986
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Andy
+            [mb_last_name] => Iverson
+            [mb_birthday] => July 6, 1969
+            [mb_email] => andy@iversongroup.net
+            [mb_phone] => 432-553-2112
+            [mb_occupation] => Communications
+            [mb_addr1] => 2509 Dartmouth Dr.
+            [mb_addr2] => 
+            [mb_city] => Midland
+            [mb_state] => TX
+            [mb_zip] => 79705
+            [sp_first_name] => Tonya
+            [sp_last_name] => Iverson
+            [sp_birthday] => 11/19/1970
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => andy@iversongroup.net
+    [login] => andiver
+    [ip] => 216.188.252.171
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Andy
+    [lname] => Iverson
+    [name] => Andy Iverson
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => birofjged9rvu4lksib6k6hid6
+            [_ga] => GA1.2.1385804201.1476824077
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Sat Oct 29th, 2016 @ precisely 5:17 pm America/Chicago
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.63 MB :: Real Memory 53.25 MB :: Peak Memory 52.77 MB :: Real Peak Memory 53.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (X11; CrOS x86_64 8530.81.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.103 Safari/537.36
+Array
+(
+    [user_id] => 1987
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1987
+                    [user_login] => walrobe
+                    [user_pass] => $P$B2Ny6oeTk65VTBKHlsMAGGM6KlrZ5a1
+                    [user_nicename] => walter-robert
+                    [user_email] => walterrobert2@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-10-29 22:17:02
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Walter Robert
+                )
+
+            [ID] => 1987
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Walter
+            [mb_last_name] => Robert
+            [mb_birthday] => 1955-07-03
+            [mb_email] => walterrobert2@gmail.com
+            [mb_phone] => Insurance Professional
+            [mb_occupation] => 215-534-0898
+            [mb_addr1] => #837
+            [mb_addr2] => 12445 Alameda Trace Circle
+            [mb_city] => Austin
+            [mb_state] => TX
+            [mb_zip] => 78727
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => walterrobert2@gmail.com
+    [login] => walrobe
+    [ip] => 68.203.18.174
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Walter
+    [lname] => Robert
+    [name] => Walter Robert
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1ttm8olqklhsp7nbvhtpojk4p0
+            [_ga] => GA1.2.203929434.1477778731
+        )
+
+)
+
+LOG ENTRY: Fri Nov 4th, 2016 @ precisely 9:54 am America/Chicago
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.61 MB :: Real Memory 53.25 MB :: Peak Memory 52.74 MB :: Real Peak Memory 53.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+Array
+(
+    [user_id] => 1988
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1988
+                    [user_login] => lynscot
+                    [user_pass] => $P$BfepfHwxlSk8Q018gBkEM8LNdiV5FR.
+                    [user_nicename] => lynette-scott
+                    [user_email] => ls21austin@yahoo.com
+                    [user_url] => 
+                    [user_registered] => 2016-11-04 14:54:39
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Lynette Scott
+                )
+
+            [ID] => 1988
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => Lynette
+            [mb_last_name] => Scott
+            [mb_birthday] => 1965-11-02
+            [mb_email] => ls21austin@yahoo.com
+            [mb_phone] => 5126587554
+            [mb_occupation] => 
+            [mb_addr1] => 1308 Rolling Ridge Dr
+            [mb_addr2] => 
+            [mb_city] => Round Rock
+            [mb_state] => TX
+            [mb_zip] => 78665
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => ls21austin@yahoo.com
+    [login] => lynscot
+    [ip] => 99.179.0.189
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Lynette
+    [lname] => Scott
+    [name] => Lynette Scott
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 66vbpe0csu975uja8pcj4al9j6
+            [_gat] => 1
+            [_ga] => GA1.2.1439353392.1478271196
+        )
+
+)
+
+LOG ENTRY: Thu Nov 24th, 2016 @ precisely 8:27 pm America/Chicago
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.62 MB :: Real Memory 53.25 MB :: Peak Memory 52.76 MB :: Real Peak Memory 53.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Array
+(
+    [user_id] => 1989
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1989
+                    [user_login] => davball
+                    [user_pass] => $P$BVrz8tgrgKbVlkawKqH42K2X1fuMIM0
+                    [user_nicename] => david-ball
+                    [user_email] => djball60@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-11-25 02:27:55
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => David Ball
+                )
+
+            [ID] => 1989
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 1
+            [mb_first_name] => David
+            [mb_last_name] => Ball
+            [mb_birthday] => 1960-11-24
+            [mb_email] => djball60@gmail.com
+            [mb_phone] => 3217954474
+            [mb_occupation] => Sr. Compliance Eng
+            [mb_addr1] => 403 Oakcrest Dr.
+            [mb_addr2] => 
+            [mb_city] => Cedar Park
+            [mb_state] => TX
+            [mb_zip] => 78613
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => djball60@gmail.com
+    [login] => davball
+    [ip] => 99.179.0.189
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => David
+    [lname] => Ball
+    [name] => David Ball
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => fael86fpep0bu5al608pve5gk1
+            [_ga] => GA1.2.659639720.1479847148
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Thu Nov 24th, 2016 @ precisely 10:38 pm America/Chicago
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.62 MB :: Real Memory 53.25 MB :: Peak Memory 52.76 MB :: Real Peak Memory 53.25 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+Array
+(
+    [user_id] => 1990
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1990
+                    [user_login] => lynjan
+                    [user_pass] => $P$BrCdfwRzQpX8qqK5gqjWpe5qEL8YuX/
+                    [user_nicename] => lynn-jan
+                    [user_email] => janlynn54@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-11-25 04:38:03
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Lynn Jan
+                )
+
+            [ID] => 1990
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 4
+            [mb_first_name] => Lynn
+            [mb_last_name] => Jan
+            [mb_birthday] => 1954-05-25
+            [mb_email] => janlynn54@gmail.com
+            [mb_phone] => 9795408922
+            [mb_occupation] => Court Reporter
+            [mb_addr1] => 1249 E. CR 415
+            [mb_addr2] => 
+            [mb_city] => Lexington
+            [mb_state] => TX
+            [mb_zip] => 78947
+            [sp_first_name] => 
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 2
+            [c1_first_name] => Robertson
+            [c1_last_name] => Belinda
+            [c1_birthday] => 1953-01-24
+            [c1_relationship] => 5
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => janlynn54@gmail.com
+    [login] => lynjan
+    [ip] => 69.170.106.4
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Lynn
+    [lname] => Jan
+    [name] => Lynn Jan
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => qak6rols7em9geno48kn95pe56
+            [_ga] => GA1.2.1264771421.1480048362
+            [_gat] => 1
+        )
+
+)
+
+LOG ENTRY: Sun Dec 11th, 2016 @ precisely 1:19 pm America/Chicago
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v161129 :: s2Member Pro v161129
+Memory 52.91 MB :: Real Memory 53.50 MB :: Peak Memory 53.05 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/registration-review/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Array
+(
+    [user_id] => 1991
+    [password] => 
+    [pagenow] => index.php
+    [email_config] => 1
+    [processed] => yes
+    [user] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 1991
+                    [user_login] => penmcma
+                    [user_pass] => $P$BQbtqE2taLQmzbRSu/nlH7UOeLzmLb0
+                    [user_nicename] => penny-mcmahan
+                    [user_email] => penny01966@gmail.com
+                    [user_url] => 
+                    [user_registered] => 2016-12-11 19:19:35
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => Penny Mcmahan
+                )
+
+            [ID] => 1991
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => ctxphc_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [access_s2member_level0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+        )
+
+    [_pmr] => Array
+        (
+            [mb_relationship] => 1/
+            [memb_type] => 3
+            [mb_first_name] => Penny
+            [mb_last_name] => McMahan
+            [mb_birthday] => 1966-04-06
+            [mb_email] => penny01966@gmail.com
+            [mb_phone] => 5127962894
+            [mb_occupation] => Financial Services Representative
+            [mb_addr1] => 18305 Hickory Bark Ct
+            [mb_addr2] => 
+            [mb_city] => Pflugerville
+            [mb_state] => TX
+            [mb_zip] => 78660
+            [sp_first_name] => Paul
+            [sp_last_name] => 
+            [sp_birthday] => 
+            [sp_email] => 
+            [sp_phone] => 
+            [sp_relationship] => 5
+            [c1_first_name] => 
+            [c1_last_name] => 
+            [c1_birthday] => 
+            [c1_relationship] => 4
+            [c1_email] => 
+            [c2_first_name] => 
+            [c2_last_name] => 
+            [c2_birthday] => 
+            [c2_relationship] => 4
+            [c2_email] => 
+            [c3_first_name] => 
+            [c3_last_name] => 
+            [c3_birthday] => 
+            [c3_relationship] => 4
+            [c3_email] => 
+            [c4_first_name] => 
+            [c4_last_name] => 
+            [c4_birthday] => 
+            [c4_relationship] => 4
+            [c4_email] => 
+            [registration] => Submit
+        )
+
+    [custom_reg_display_name] => full
+    [reg_cookies] => 
+    [current_role] => subscriber
+    [role] => subscriber
+    [level] => 0
+    [ccaps] => 
+    [email] => penny01966@gmail.com
+    [login] => penmcma
+    [ip] => 104.54.221.215
+    [custom] => 
+    [subscr_id] => 
+    [subscr_baid] => 
+    [subscr_cid] => 
+    [subscr_gateway] => 
+    [eot] => 
+    [auto_eot_time] => 
+    [notes] => 
+    [opt_in] => 
+    [fname] => Penny
+    [lname] => Mcmahan
+    [name] => Penny Mcmahan
+    [pass] => 
+    [fields] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => sfuv8llfm33hbpvpphq4l2vjm0
+            [_ga] => GA1.2.1733461228.1481483328
+        )
+
+)
+

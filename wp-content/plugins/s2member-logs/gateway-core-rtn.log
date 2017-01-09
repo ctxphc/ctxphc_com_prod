@@ -1,0 +1,18 @@
+LOG ENTRY: Wed May 4th, 2016 @ precisely 12:35 am UTC
+PHP v5.6.17 :: WordPress v4.5.1 :: s2Member v160424 :: s2Member Pro v160424
+Memory 46.35 MB :: Real Memory 47.00 MB :: Peak Memory 46.55 MB :: Real Peak Memory 47.00 MB
+www.ctxphc.com/?s2member_paypal_return=1&s2member_paypal_proxy=paypal&s2member_paypal_proxy_use=x-preview
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Array
+(
+    [subscr_gateway] => paypal
+    [s2member_log] => Array
+        (
+            [0] => Test preview of Return Page `proxy_use`: ( `x_preview` ).
+            [1] => Redirecting Customer to the Home Page (after displaying preview information).
+        )
+
+    [s2member_paypal_proxy] => paypal
+    [s2member_paypal_proxy_use] => x-preview
+)
+

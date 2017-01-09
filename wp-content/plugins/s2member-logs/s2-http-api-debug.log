@@ -1,0 +1,1025 @@
+LOG ENTRY: Tue Dec 13th, 2016 @ precisely 2:41 am UTC
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v161129 :: s2Member Pro v161129
+Memory 57.41 MB :: Real Memory 58.25 MB :: Peak Memory 57.61 MB :: Real Peak Memory 58.25 MB
+www.ctxphc.com/wp-admin/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Array
+(
+    [state] => response
+    [transport_class] => Requests
+    [args] => Array
+        (
+            [method] => GET
+            [timeout] => 5
+            [redirection] => 5
+            [httpversion] => 1.0
+            [user-agent] => WordPress/4.6.1; http://www.ctxphc.com
+            [reject_unsafe_urls] => 
+            [blocking] => 
+            [headers] => Array
+                (
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [body] => 
+            [compress] => 
+            [decompress] => 1
+            [sslverify] => 
+            [sslcertificates] => /home1/ctxphcco/public_html/wp-includes/certificates/ca-bundle.crt
+            [stream] => 
+            [filename] => 
+            [limit_response_size] => 
+            [_redirection] => 5
+        )
+
+    [url] => https://stats.wpsharks.io/log?os=Linux&php_version=5.6.27&mysql_version=5.6.32&wp_version=4.6.1&product_version=161129&product=s2member-pro
+    [response] => Array
+        (
+            [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                (
+                    [data:protected] => Array
+                        (
+                        )
+
+                )
+
+            [body] => 
+            [response] => Array
+                (
+                    [code] => 
+                    [message] => 
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [filename] => 
+            [http_response] => WP_HTTP_Requests_Response Object
+                (
+                    [response:protected] => Requests_Response Object
+                        (
+                            [body] => 
+                            [raw] => 
+                            [headers] => Requests_Response_Headers Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [status_code] => 
+                            [protocol_version] => 
+                            [success] => 
+                            [redirects] => 0
+                            [url] => 
+                            [history] => Array
+                                (
+                                )
+
+                            [cookies] => Requests_Cookie_Jar Object
+                                (
+                                    [cookies:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [filename:protected] => 
+                    [data] => 
+                    [headers] => 
+                    [status] => 
+                )
+
+        )
+
+)
+
+LOG ENTRY: Wed Dec 14th, 2016 @ precisely 7:43 pm UTC
+PHP v5.6.27 :: WordPress v4.7 :: s2Member v161129 :: s2Member Pro v161129
+Memory 61.11 MB :: Real Memory 61.75 MB :: Peak Memory 61.31 MB :: Real Peak Memory 61.75 MB
+www.ctxphc.com/wp-admin/admin-ajax.php?action=WP_FullCalendar&type=event&month=11&year=2016&start=2016-11-27&end=2017-01-08&_=1481744627768
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Array
+(
+    [state] => response
+    [transport_class] => Requests
+    [args] => Array
+        (
+            [method] => GET
+            [timeout] => 5
+            [redirection] => 5
+            [httpversion] => 1.0
+            [user-agent] => WordPress/4.7; http://www.ctxphc.com
+            [reject_unsafe_urls] => 
+            [blocking] => 
+            [headers] => Array
+                (
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [body] => 
+            [compress] => 
+            [decompress] => 1
+            [sslverify] => 
+            [sslcertificates] => /home1/ctxphcco/public_html/wp-includes/certificates/ca-bundle.crt
+            [stream] => 
+            [filename] => 
+            [limit_response_size] => 
+            [_redirection] => 5
+        )
+
+    [url] => https://stats.wpsharks.io/log?os=Linux&php_version=5.6.27&mysql_version=5.6.32&wp_version=4.7&product_version=161129&product=s2member-pro
+    [response] => Array
+        (
+            [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                (
+                    [data:protected] => Array
+                        (
+                        )
+
+                )
+
+            [body] => 
+            [response] => Array
+                (
+                    [code] => 
+                    [message] => 
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [filename] => 
+            [http_response] => WP_HTTP_Requests_Response Object
+                (
+                    [response:protected] => Requests_Response Object
+                        (
+                            [body] => 
+                            [raw] => 
+                            [headers] => Requests_Response_Headers Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [status_code] => 
+                            [protocol_version] => 
+                            [success] => 
+                            [redirects] => 0
+                            [url] => 
+                            [history] => Array
+                                (
+                                )
+
+                            [cookies] => Requests_Cookie_Jar Object
+                                (
+                                    [cookies:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [filename:protected] => 
+                    [data] => 
+                    [headers] => 
+                    [status] => 
+                )
+
+        )
+
+)
+
+LOG ENTRY: Sat Dec 17th, 2016 @ precisely 7:49 am UTC
+PHP v5.6.27 :: WordPress v4.7 :: s2Member v161129 :: s2Member Pro v161129
+Memory 56.37 MB :: Real Memory 56.75 MB :: Peak Memory 56.45 MB :: Real Peak Memory 56.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [state] => response
+    [transport_class] => Requests
+    [args] => Array
+        (
+            [method] => POST
+            [timeout] => 20
+            [redirection] => 5
+            [httpversion] => 1.1
+            [user-agent] => s2Member v161129; http://www.ctxphc.com
+            [reject_unsafe_urls] => 
+            [blocking] => 1
+            [headers] => Array
+                (
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [body] => Array
+                (
+                    [transaction_subject] => 
+                    [payment_date] => 23:49:06 Dec 16, 2016 PST
+                    [txn_type] => web_accept
+                    [last_name] => Kilgore
+                    [option_selection1] => Couple
+                    [residence_country] => US
+                    [item_name] => Registration
+                    [payment_gross] => 40.00
+                    [mc_currency] => USD
+                    [business] => paypal@ctxphc.com
+                    [payment_type] => instant
+                    [protection_eligibility] => Ineligible
+                    [verify_sign] => AWu5LXYeGjbN4MnftcnMN965XXlkAZ54D0nyB46MuwaVEMjmQJJlFgbE
+                    [payer_status] => verified
+                    [payer_email] => kaptkaos@gmail.com
+                    [txn_id] => 4WJ26908JU8873206
+                    [quantity] => 1
+                    [receiver_email] => paypal@ctxphc.com
+                    [first_name] => Kenneth
+                    [option_name1] => Registration Type
+                    [payer_id] => QVZDE5PBJY6W2
+                    [receiver_id] => HUUTQCFKQ47CL
+                    [item_number] => registration
+                    [payer_business_name] => Kaos Mix Master
+                    [payment_status] => Completed
+                    [payment_fee] => 1.46
+                    [mc_fee] => 1.46
+                    [mc_gross] => 40.00
+                    [custom] => 
+                    [charset] => windows-1252
+                    [notify_version] => 3.8
+                    [ipn_track_id] => fdd0a1175bac7
+                    [cmd] => _notify-validate
+                )
+
+            [compress] => 
+            [decompress] => 1
+            [sslverify] => 1
+            [sslcertificates] => /home1/ctxphcco/public_html/wp-includes/certificates/ca-bundle.crt
+            [stream] => 
+            [filename] => 
+            [limit_response_size] => 
+            [s2member] => 161129
+            [_redirection] => 5
+        )
+
+    [url] => https://www.paypal.com/cgi-bin/webscr
+    [response] => Array
+        (
+            [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                (
+                    [data:protected] => Array
+                        (
+                            [server] => Apache
+                            [x-frame-options] => SAMEORIGIN
+                            [content-encoding] => gzip
+                            [paypal-debug-id] => a0e853cd40e99
+                            [cache-control] => max-age=0, no-cache, no-store, must-revalidate
+                            [pragma] => no-cache
+                            [content-type] => text/html; charset=UTF-8
+                            [dc] => slc-b-origin-www-2.paypal.com
+                            [date] => Sat, 17 Dec 2016 07:49:20 GMT
+                            [content-length] => 34
+                            [vary] => Accept-Encoding
+                            [set-cookie] => Array
+                                (
+                                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=zz01DlcAtokDKscCH3DoJeYxKPFizanhrORHD7x2wcSkgz4Rf7zKFxbiLmqIK4t97tpAi4zTLvh5haEmL9GsG1Zusr1vo_Dg9kDzh9iQNoGqniyLbVxV3yeoxqSxLdATfuDQPDb2YBkiQUXZsQPkUCyP5OmIuOrzavJRlUgR_gk_nm6Fb_qytZt5eZtoGWOciwc7FPS7asQWCGtO4CIKMMV7aS2X-VPKM1UGo5tM9qO6BkqdUNxR800v13lvPlAp2TWoPUoQoy8ODuhBpp30pmH8x7G7CEdaitr9NkQMqNvDeLVsvJPJAt30qmD5if8s5TDV-xG5WqkFNQ3UmLOKvBaJzu69XP-bgft5c5SIPZeI7g-JQtGi2WaNHsjARLIF9yvG5VvMhrf4RB5n9329WDnQ1rbm2ldBJOh_wDRw6fcadHosEEhAMtKbfya; domain=.paypal.com; path=/; Secure; HttpOnly
+                                    [1] => cookie_check=yes; expires=Tue, 15-Dec-2026 07:49:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                                    [3] => navlns=0.0; expires=Mon, 17-Dec-2018 07:49:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                    [4] => X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D15619160%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Sat, 17 Dec 2016 08:19:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                    [5] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                                    [6] => AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 17-Dec-2016 08:19:20 GMT; path=/; secure
+                                    [7] => akavpau_ppsd=1481961560~id=5df5c43dc928dca2cc3444e46f47fc65; path=/
+                                )
+
+                            [strict-transport-security] => max-age=63072000
+                        )
+
+                )
+
+            [body] => VERIFIED
+            [response] => Array
+                (
+                    [code] => 200
+                    [message] => OK
+                )
+
+            [cookies] => Array
+                (
+                    [0] => WP_Http_Cookie Object
+                        (
+                            [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                            [value] => zz01DlcAtokDKscCH3DoJeYxKPFizanhrORHD7x2wcSkgz4Rf7zKFxbiLmqIK4t97tpAi4zTLvh5haEmL9GsG1Zusr1vo_Dg9kDzh9iQNoGqniyLbVxV3yeoxqSxLdATfuDQPDb2YBkiQUXZsQPkUCyP5OmIuOrzavJRlUgR_gk_nm6Fb_qytZt5eZtoGWOciwc7FPS7asQWCGtO4CIKMMV7aS2X-VPKM1UGo5tM9qO6BkqdUNxR800v13lvPlAp2TWoPUoQoy8ODuhBpp30pmH8x7G7CEdaitr9NkQMqNvDeLVsvJPJAt30qmD5if8s5TDV-xG5WqkFNQ3UmLOKvBaJzu69XP-bgft5c5SIPZeI7g-JQtGi2WaNHsjARLIF9yvG5VvMhrf4RB5n9329WDnQ1rbm2ldBJOh_wDRw6fcadHosEEhAMtKbfya
+                            [expires] => 
+                            [path] => /
+                            [domain] => paypal.com
+                        )
+
+                    [1] => WP_Http_Cookie Object
+                        (
+                            [name] => cookie_check
+                            [value] => yes
+                            [expires] => 1797320960
+                            [path] => /
+                            [domain] => paypal.com
+                        )
+
+                    [2] => WP_Http_Cookie Object
+                        (
+                            [name] => navcmd
+                            [value] => _notify-validate
+                            [expires] => 
+                            [path] => /
+                            [domain] => paypal.com
+                        )
+
+                    [3] => WP_Http_Cookie Object
+                        (
+                            [name] => navlns
+                            [value] => 0.0
+                            [expires] => 1545032960
+                            [path] => /
+                            [domain] => paypal.com
+                        )
+
+                    [4] => WP_Http_Cookie Object
+                        (
+                            [name] => X-PP-SILOVER
+                            [value] => 
+                            [expires] => 1
+                            [path] => /cgi-bin
+                            [domain] => www.paypal.com
+                        )
+
+                    [5] => WP_Http_Cookie Object
+                        (
+                            [name] => AKDC
+                            [value] => slc-b-origin-www-2.paypal.com
+                            [expires] => 1481962760
+                            [path] => /
+                            [domain] => www.paypal.com
+                        )
+
+                    [6] => WP_Http_Cookie Object
+                        (
+                            [name] => akavpau_ppsd
+                            [value] => 1481961560~id=5df5c43dc928dca2cc3444e46f47fc65
+                            [expires] => 
+                            [path] => /
+                            [domain] => www.paypal.com
+                        )
+
+                )
+
+            [filename] => 
+            [http_response] => WP_HTTP_Requests_Response Object
+                (
+                    [response:protected] => Requests_Response Object
+                        (
+                            [body] => VERIFIED
+                            [raw] => HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+Paypal-Debug-Id: a0e853cd40e99
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+Date: Sat, 17 Dec 2016 07:49:20 GMT
+Content-Length: 34
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=zz01DlcAtokDKscCH3DoJeYxKPFizanhrORHD7x2wcSkgz4Rf7zKFxbiLmqIK4t97tpAi4zTLvh5haEmL9GsG1Zusr1vo_Dg9kDzh9iQNoGqniyLbVxV3yeoxqSxLdATfuDQPDb2YBkiQUXZsQPkUCyP5OmIuOrzavJRlUgR_gk_nm6Fb_qytZt5eZtoGWOciwc7FPS7asQWCGtO4CIKMMV7aS2X-VPKM1UGo5tM9qO6BkqdUNxR800v13lvPlAp2TWoPUoQoy8ODuhBpp30pmH8x7G7CEdaitr9NkQMqNvDeLVsvJPJAt30qmD5if8s5TDV-xG5WqkFNQ3UmLOKvBaJzu69XP-bgft5c5SIPZeI7g-JQtGi2WaNHsjARLIF9yvG5VvMhrf4RB5n9329WDnQ1rbm2ldBJOh_wDRw6fcadHosEEhAMtKbfya; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 15-Dec-2026 07:49:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 17-Dec-2018 07:49:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D15619160%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Sat, 17 Dec 2016 08:19:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 17-Dec-2016 08:19:20 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1481961560~id=5df5c43dc928dca2cc3444e46f47fc65; path=/
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+                            [headers] => Requests_Response_Headers Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                            [server] => Array
+                                                (
+                                                    [0] => Apache
+                                                )
+
+                                            [x-frame-options] => Array
+                                                (
+                                                    [0] => SAMEORIGIN
+                                                )
+
+                                            [content-encoding] => Array
+                                                (
+                                                    [0] => gzip
+                                                )
+
+                                            [paypal-debug-id] => Array
+                                                (
+                                                    [0] => a0e853cd40e99
+                                                )
+
+                                            [cache-control] => Array
+                                                (
+                                                    [0] => max-age=0, no-cache, no-store, must-revalidate
+                                                )
+
+                                            [pragma] => Array
+                                                (
+                                                    [0] => no-cache
+                                                )
+
+                                            [content-type] => Array
+                                                (
+                                                    [0] => text/html; charset=UTF-8
+                                                )
+
+                                            [dc] => Array
+                                                (
+                                                    [0] => slc-b-origin-www-2.paypal.com
+                                                )
+
+                                            [date] => Array
+                                                (
+                                                    [0] => Sat, 17 Dec 2016 07:49:20 GMT
+                                                )
+
+                                            [content-length] => Array
+                                                (
+                                                    [0] => 34
+                                                )
+
+                                            [vary] => Array
+                                                (
+                                                    [0] => Accept-Encoding
+                                                )
+
+                                            [set-cookie] => Array
+                                                (
+                                                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=zz01DlcAtokDKscCH3DoJeYxKPFizanhrORHD7x2wcSkgz4Rf7zKFxbiLmqIK4t97tpAi4zTLvh5haEmL9GsG1Zusr1vo_Dg9kDzh9iQNoGqniyLbVxV3yeoxqSxLdATfuDQPDb2YBkiQUXZsQPkUCyP5OmIuOrzavJRlUgR_gk_nm6Fb_qytZt5eZtoGWOciwc7FPS7asQWCGtO4CIKMMV7aS2X-VPKM1UGo5tM9qO6BkqdUNxR800v13lvPlAp2TWoPUoQoy8ODuhBpp30pmH8x7G7CEdaitr9NkQMqNvDeLVsvJPJAt30qmD5if8s5TDV-xG5WqkFNQ3UmLOKvBaJzu69XP-bgft5c5SIPZeI7g-JQtGi2WaNHsjARLIF9yvG5VvMhrf4RB5n9329WDnQ1rbm2ldBJOh_wDRw6fcadHosEEhAMtKbfya; domain=.paypal.com; path=/; Secure; HttpOnly
+                                                    [1] => cookie_check=yes; expires=Tue, 15-Dec-2026 07:49:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                                                    [3] => navlns=0.0; expires=Mon, 17-Dec-2018 07:49:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                                    [4] => X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D15619160%26HTTP_X_PP_AZ_LOCATOR%3D; Expires=Sat, 17 Dec 2016 08:19:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                                    [5] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                                                    [6] => AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 17-Dec-2016 08:19:20 GMT; path=/; secure
+                                                    [7] => akavpau_ppsd=1481961560~id=5df5c43dc928dca2cc3444e46f47fc65; path=/
+                                                )
+
+                                            [strict-transport-security] => Array
+                                                (
+                                                    [0] => max-age=63072000
+                                                )
+
+                                        )
+
+                                )
+
+                            [status_code] => 200
+                            [protocol_version] => 1.1
+                            [success] => 1
+                            [redirects] => 0
+                            [url] => https://www.paypal.com/cgi-bin/webscr
+                            [history] => Array
+                                (
+                                )
+
+                            [cookies] => Requests_Cookie_Jar Object
+                                (
+                                    [cookies:protected] => Array
+                                        (
+                                            [cwrClyrK4LoCV1fydGbAxiNL6iG] => Requests_Cookie Object
+                                                (
+                                                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                                                    [value] => zz01DlcAtokDKscCH3DoJeYxKPFizanhrORHD7x2wcSkgz4Rf7zKFxbiLmqIK4t97tpAi4zTLvh5haEmL9GsG1Zusr1vo_Dg9kDzh9iQNoGqniyLbVxV3yeoxqSxLdATfuDQPDb2YBkiQUXZsQPkUCyP5OmIuOrzavJRlUgR_gk_nm6Fb_qytZt5eZtoGWOciwc7FPS7asQWCGtO4CIKMMV7aS2X-VPKM1UGo5tM9qO6BkqdUNxR800v13lvPlAp2TWoPUoQoy8ODuhBpp30pmH8x7G7CEdaitr9NkQMqNvDeLVsvJPJAt30qmD5if8s5TDV-xG5WqkFNQ3UmLOKvBaJzu69XP-bgft5c5SIPZeI7g-JQtGi2WaNHsjARLIF9yvG5VvMhrf4RB5n9329WDnQ1rbm2ldBJOh_wDRw6fcadHosEEhAMtKbfya
+                                                    [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                        (
+                                                            [data:protected] => Array
+                                                                (
+                                                                    [domain] => paypal.com
+                                                                    [path] => /
+                                                                    [secure] => 1
+                                                                    [httponly] => 1
+                                                                )
+
+                                                        )
+
+                                                    [flags] => Array
+                                                        (
+                                                            [creation] => 1481960960
+                                                            [last-access] => 1481960960
+                                                            [persistent] => 
+                                                            [host-only] => 
+                                                        )
+
+                                                    [reference_time] => 1481960960
+                                                )
+
+                                            [cookie_check] => Requests_Cookie Object
+                                                (
+                                                    [name] => cookie_check
+                                                    [value] => yes
+                                                    [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                        (
+                                                            [data:protected] => Array
+                                                                (
+                                                                    [expires] => 1797320960
+                                                                    [domain] => paypal.com
+                                                                    [path] => /
+                                                                    [secure] => 1
+                                                                    [httponly] => 1
+                                                                )
+
+                                                        )
+
+                                                    [flags] => Array
+                                                        (
+                                                            [creation] => 1481960960
+                                                            [last-access] => 1481960960
+                                                            [persistent] => 
+                                                            [host-only] => 
+                                                        )
+
+                                                    [reference_time] => 1481960960
+                                                )
+
+                                            [navcmd] => Requests_Cookie Object
+                                                (
+                                                    [name] => navcmd
+                                                    [value] => _notify-validate
+                                                    [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                        (
+                                                            [data:protected] => Array
+                                                                (
+                                                                    [domain] => paypal.com
+                                                                    [path] => /
+                                                                    [secure] => 1
+                                                                    [httponly] => 1
+                                                                )
+
+                                                        )
+
+                                                    [flags] => Array
+                                                        (
+                                                            [creation] => 1481960960
+                                                            [last-access] => 1481960960
+                                                            [persistent] => 
+                                                            [host-only] => 
+                                                        )
+
+                                                    [reference_time] => 1481960960
+                                                )
+
+                                            [navlns] => Requests_Cookie Object
+                                                (
+                                                    [name] => navlns
+                                                    [value] => 0.0
+                                                    [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                        (
+                                                            [data:protected] => Array
+                                                                (
+                                                                    [expires] => 1545032960
+                                                                    [domain] => paypal.com
+                                                                    [path] => /
+                                                                    [secure] => 1
+                                                                    [httponly] => 1
+                                                                )
+
+                                                        )
+
+                                                    [flags] => Array
+                                                        (
+                                                            [creation] => 1481960960
+                                                            [last-access] => 1481960960
+                                                            [persistent] => 
+                                                            [host-only] => 
+                                                        )
+
+                                                    [reference_time] => 1481960960
+                                                )
+
+                                            [X-PP-SILOVER] => Requests_Cookie Object
+                                                (
+                                                    [name] => X-PP-SILOVER
+                                                    [value] => 
+                                                    [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                        (
+                                                            [data:protected] => Array
+                                                                (
+                                                                    [expires] => 1
+                                                                    [domain] => www.paypal.com
+                                                                    [path] => /cgi-bin
+                                                                )
+
+                                                        )
+
+                                                    [flags] => Array
+                                                        (
+                                                            [creation] => 1481960960
+                                                            [last-access] => 1481960960
+                                                            [persistent] => 
+                                                            [host-only] => 1
+                                                        )
+
+                                                    [reference_time] => 1481960960
+                                                )
+
+                                            [AKDC] => Requests_Cookie Object
+                                                (
+                                                    [name] => AKDC
+                                                    [value] => slc-b-origin-www-2.paypal.com
+                                                    [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                        (
+                                                            [data:protected] => Array
+                                                                (
+                                                                    [expires] => 1481962760
+                                                                    [path] => /
+                                                                    [secure] => 1
+                                                                    [domain] => www.paypal.com
+                                                                )
+
+                                                        )
+
+                                                    [flags] => Array
+                                                        (
+                                                            [creation] => 1481960960
+                                                            [last-access] => 1481960960
+                                                            [persistent] => 
+                                                            [host-only] => 1
+                                                        )
+
+                                                    [reference_time] => 1481960960
+                                                )
+
+                                            [akavpau_ppsd] => Requests_Cookie Object
+                                                (
+                                                    [name] => akavpau_ppsd
+                                                    [value] => 1481961560~id=5df5c43dc928dca2cc3444e46f47fc65
+                                                    [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                        (
+                                                            [data:protected] => Array
+                                                                (
+                                                                    [path] => /
+                                                                    [domain] => www.paypal.com
+                                                                )
+
+                                                        )
+
+                                                    [flags] => Array
+                                                        (
+                                                            [creation] => 1481960960
+                                                            [last-access] => 1481960960
+                                                            [persistent] => 
+                                                            [host-only] => 1
+                                                        )
+
+                                                    [reference_time] => 1481960960
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [filename:protected] => 
+                    [data] => 
+                    [headers] => 
+                    [status] => 
+                )
+
+        )
+
+)
+
+LOG ENTRY: Thu Dec 22nd, 2016 @ precisely 5:50 am UTC
+PHP v5.6.27 :: WordPress v4.7 :: s2Member v161129 :: s2Member Pro v161129
+Memory 62.97 MB :: Real Memory 64.00 MB :: Peak Memory 63.18 MB :: Real Peak Memory 64.00 MB
+www.ctxphc.com/wp-admin/admin-ajax.php
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+Array
+(
+    [state] => response
+    [transport_class] => Requests
+    [args] => Array
+        (
+            [method] => GET
+            [timeout] => 5
+            [redirection] => 5
+            [httpversion] => 1.0
+            [user-agent] => WordPress/4.7; http://www.ctxphc.com
+            [reject_unsafe_urls] => 
+            [blocking] => 
+            [headers] => Array
+                (
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [body] => 
+            [compress] => 
+            [decompress] => 1
+            [sslverify] => 
+            [sslcertificates] => /home1/ctxphcco/public_html/wp-includes/certificates/ca-bundle.crt
+            [stream] => 
+            [filename] => 
+            [limit_response_size] => 
+            [_redirection] => 5
+        )
+
+    [url] => https://stats.wpsharks.io/log?os=Linux&php_version=5.6.27&mysql_version=5.6.32&wp_version=4.7&product_version=161129&product=s2member-pro
+    [response] => Array
+        (
+            [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                (
+                    [data:protected] => Array
+                        (
+                        )
+
+                )
+
+            [body] => 
+            [response] => Array
+                (
+                    [code] => 
+                    [message] => 
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [filename] => 
+            [http_response] => WP_HTTP_Requests_Response Object
+                (
+                    [response:protected] => Requests_Response Object
+                        (
+                            [body] => 
+                            [raw] => 
+                            [headers] => Requests_Response_Headers Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [status_code] => 
+                            [protocol_version] => 
+                            [success] => 
+                            [redirects] => 0
+                            [url] => 
+                            [history] => Array
+                                (
+                                )
+
+                            [cookies] => Requests_Cookie_Jar Object
+                                (
+                                    [cookies:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [filename:protected] => 
+                    [data] => 
+                    [headers] => 
+                    [status] => 
+                )
+
+        )
+
+)
+
+LOG ENTRY: Thu Dec 29th, 2016 @ precisely 9:20 pm UTC
+PHP v5.6.27 :: WordPress v4.7 :: s2Member v161129 :: s2Member Pro v161129
+Memory 62.74 MB :: Real Memory 64.00 MB :: Peak Memory 63.08 MB :: Real Peak Memory 64.00 MB
+www.ctxphc.com/wp-admin/admin-ajax.php?action=WP_FullCalendar&type=event&month=11&year=2016&start=2016-11-27&end=2017-01-08&_=1481846400000
+User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Array
+(
+    [state] => response
+    [transport_class] => Requests
+    [args] => Array
+        (
+            [method] => GET
+            [timeout] => 5
+            [redirection] => 5
+            [httpversion] => 1.0
+            [user-agent] => WordPress/4.7; http://www.ctxphc.com
+            [reject_unsafe_urls] => 
+            [blocking] => 
+            [headers] => Array
+                (
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [body] => 
+            [compress] => 
+            [decompress] => 1
+            [sslverify] => 
+            [sslcertificates] => /home1/ctxphcco/public_html/wp-includes/certificates/ca-bundle.crt
+            [stream] => 
+            [filename] => 
+            [limit_response_size] => 
+            [_redirection] => 5
+        )
+
+    [url] => https://stats.wpsharks.io/log?os=Linux&php_version=5.6.27&mysql_version=5.6.32&wp_version=4.7&product_version=161129&product=s2member-pro
+    [response] => Array
+        (
+            [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                (
+                    [data:protected] => Array
+                        (
+                        )
+
+                )
+
+            [body] => 
+            [response] => Array
+                (
+                    [code] => 
+                    [message] => 
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [filename] => 
+            [http_response] => WP_HTTP_Requests_Response Object
+                (
+                    [response:protected] => Requests_Response Object
+                        (
+                            [body] => 
+                            [raw] => 
+                            [headers] => Requests_Response_Headers Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [status_code] => 
+                            [protocol_version] => 
+                            [success] => 
+                            [redirects] => 0
+                            [url] => 
+                            [history] => Array
+                                (
+                                )
+
+                            [cookies] => Requests_Cookie_Jar Object
+                                (
+                                    [cookies:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [filename:protected] => 
+                    [data] => 
+                    [headers] => 
+                    [status] => 
+                )
+
+        )
+
+)
+
+LOG ENTRY: Thu Jan 5th, 2017 @ precisely 11:12 pm UTC
+PHP v5.6.29 :: WordPress v4.7 :: s2Member v161129 :: s2Member Pro v161129
+Memory 63.08 MB :: Real Memory 63.50 MB :: Peak Memory 63.29 MB :: Real Peak Memory 63.50 MB
+www.ctxphc.com/wp-admin/admin-ajax.php
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+Array
+(
+    [state] => response
+    [transport_class] => Requests
+    [args] => Array
+        (
+            [method] => GET
+            [timeout] => 5
+            [redirection] => 5
+            [httpversion] => 1.0
+            [user-agent] => WordPress/4.7; http://www.ctxphc.com
+            [reject_unsafe_urls] => 
+            [blocking] => 
+            [headers] => Array
+                (
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [body] => 
+            [compress] => 
+            [decompress] => 1
+            [sslverify] => 
+            [sslcertificates] => /home1/ctxphcco/public_html/wp-includes/certificates/ca-bundle.crt
+            [stream] => 
+            [filename] => 
+            [limit_response_size] => 
+            [_redirection] => 5
+        )
+
+    [url] => https://stats.wpsharks.io/log?os=Linux&php_version=5.6.29&mysql_version=5.6.32&wp_version=4.7&product_version=161129&product=s2member-pro
+    [response] => Array
+        (
+            [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                (
+                    [data:protected] => Array
+                        (
+                        )
+
+                )
+
+            [body] => 
+            [response] => Array
+                (
+                    [code] => 
+                    [message] => 
+                )
+
+            [cookies] => Array
+                (
+                )
+
+            [filename] => 
+            [http_response] => WP_HTTP_Requests_Response Object
+                (
+                    [response:protected] => Requests_Response Object
+                        (
+                            [body] => 
+                            [raw] => 
+                            [headers] => Requests_Response_Headers Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [status_code] => 
+                            [protocol_version] => 
+                            [success] => 
+                            [redirects] => 0
+                            [url] => 
+                            [history] => Array
+                                (
+                                )
+
+                            [cookies] => Requests_Cookie_Jar Object
+                                (
+                                    [cookies:protected] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [filename:protected] => 
+                    [data] => 
+                    [headers] => 
+                    [status] => 
+                )
+
+        )
+
+)
+

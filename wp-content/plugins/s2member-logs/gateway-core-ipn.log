@@ -1,0 +1,2060 @@
+LOG ENTRY: Tue May 10th, 2016 @ precisely 1:12 am UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.13 MB :: Real Memory 48.75 MB :: Peak Memory 48.30 MB :: Real Peak Memory 48.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 45.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => KKEQHELNJ6LTC
+    [tax] => 0.00
+    [payment_date] => 18:12:00 May 09, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Thompson
+    [option_selection1] => Household
+    [mc_fee] => 1.61
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => A6XGAEMnp-NebyPXF9BeshFKh2d3Akg-f5ee0RzCfGURZurYnIkNXlHV
+    [payer_email] => tommyrox@me.com
+    [option_name1] => Registration Type
+    [txn_id] => 51V29578MJ8284848
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Hazleton
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.61
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => 
+    [payment_gross] => 45.00
+    [shipping] => 0.00
+    [ipn_track_id] => 6b7ac13d8663f
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue May 10, 2016 1:12:12 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Wed May 11th, 2016 @ precisely 5:08 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.12 MB :: Real Memory 48.50 MB :: Peak Memory 48.29 MB :: Real Peak Memory 48.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 25.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => KK53YR9YQFUP6
+    [tax] => 0.00
+    [payment_date] => 10:03:24 May 11, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Mike
+    [option_selection1] => Individual
+    [mc_fee] => 1.03
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AbIIhrfBaUCi77-7nPr9LrWPNghqA7h3YZgGvizvn9iY0rjtBlLWOhFD
+    [payer_email] => typhoon@correctcolor.org
+    [option_name1] => Registration Type
+    [txn_id] => 7FE87936N67110849
+    [payment_type] => instant
+    [last_name] => Adams
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.03
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 25.00
+    [shipping] => 0.00
+    [ipn_track_id] => 9a1c94a0b69bb
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Wed May 11, 2016 5:08:56 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Wed May 11th, 2016 @ precisely 7:24 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.13 MB :: Real Memory 48.75 MB :: Peak Memory 48.30 MB :: Real Peak Memory 48.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 25.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => 33PXVM3ZGP2Y6
+    [tax] => 0.00
+    [payment_date] => 12:23:48 May 11, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Madeline
+    [option_selection1] => Individual
+    [mc_fee] => 1.03
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AjUvjLgeG5Y3dyd381Q2Plw3sIFrAbSWXqhDOY8IfJ5dIicvm.l70j9S
+    [payer_email] => madelinedgraham@gmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 9TA80640BY6466338
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Graham
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.03
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => 
+    [payment_gross] => 25.00
+    [shipping] => 0.00
+    [ipn_track_id] => f26addb66f795
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Wed May 11, 2016 7:24:03 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Thu May 12th, 2016 @ precisely 3:35 am UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.13 MB :: Real Memory 48.50 MB :: Peak Memory 48.31 MB :: Real Peak Memory 48.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 45.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => WLPYS8N9TX5FJ
+    [tax] => 0.00
+    [payment_date] => 20:34:49 May 11, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Andrea
+    [option_selection1] => Household
+    [mc_fee] => 1.61
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AAvLBz469B8kovcvezbsbNdzegQHAFxz1DRSHel33cx4.HVvVlPvJgBG
+    [payer_email] => andreadivino@gmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 0KD518330P684781G
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Divino
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.61
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 5434-2441-7514-7817
+    [shipping_method] => Default
+    [handling_amount] => 0.00
+    [transaction_subject] => Registration
+    [payment_gross] => 45.00
+    [shipping] => 0.00
+    [ipn_track_id] => 794fddd378bc9
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Thu May 12, 2016 3:35:04 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Thu May 12th, 2016 @ precisely 1:25 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.13 MB :: Real Memory 48.50 MB :: Peak Memory 48.30 MB :: Real Peak Memory 48.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 25.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => 8R8859CB57A6E
+    [tax] => 0.00
+    [payment_date] => 06:24:55 May 12, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Douglas
+    [option_selection1] => Individual
+    [mc_fee] => 1.03
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => A5jg5FHbO3aWQKHd4A60fQrDAEioAnH1IZ-dW2Rhr.aKtQCwL97.x9Uo
+    [payer_email] => cabanadaddy@gmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 1WC86004AT161182X
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Hall
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.03
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => 
+    [payment_gross] => 25.00
+    [shipping] => 0.00
+    [ipn_track_id] => 380b8f8da5490
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Thu May 12, 2016 1:25:08 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Thu May 12th, 2016 @ precisely 8:27 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.13 MB :: Real Memory 48.75 MB :: Peak Memory 48.31 MB :: Real Peak Memory 48.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 25.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => JFVBJXKG7CS8E
+    [tax] => 0.00
+    [payment_date] => 13:26:51 May 12, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Cassandra
+    [option_selection1] => Individual
+    [mc_fee] => 1.03
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => A3HZzQjxzoBA2-AmrrMtKbeXSlyhAC5fQbbjoJ9I9WmRBy4gcmKs-Kih
+    [payer_email] => CWillich21@aim.com
+    [option_name1] => Registration Type
+    [txn_id] => 9E471227H78895006
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Willich
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.03
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => 
+    [payment_gross] => 25.00
+    [shipping] => 0.00
+    [ipn_track_id] => 13b0b8fab851e
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Thu May 12, 2016 8:27:07 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sat May 14th, 2016 @ precisely 6:11 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 48.50 MB :: Real Memory 49.00 MB :: Peak Memory 48.67 MB :: Real Peak Memory 49.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 45.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => 3YCRGCY3RUTLJ
+    [tax] => 0.00
+    [payment_date] => 11:11:21 May 14, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => scott
+    [option_selection1] => Household
+    [mc_fee] => 1.61
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AXbHfyOhp.g26Kv5HlJEYOBllEYOAKMxQp8-0I3sU7NsqfrDNJxdhnAy
+    [payer_email] => SCOTTDUPLANTIS@YAHOO.COM
+    [option_name1] => Registration Type
+    [txn_id] => 6D6460900B1610730
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => duplantis
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.61
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => 
+    [payment_gross] => 45.00
+    [shipping] => 0.00
+    [ipn_track_id] => b73b1ff29b1d6
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sat May 14, 2016 6:11:32 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sun May 15th, 2016 @ precisely 2:24 am UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.52 MB :: Real Memory 54.75 MB :: Peak Memory 54.73 MB :: Real Peak Memory 54.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 25.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => WSRRXLSNJJ5QE
+    [tax] => 0.00
+    [payment_date] => 19:24:29 May 14, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Linda
+    [option_selection1] => Individual
+    [mc_fee] => 1.03
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AzaPqPnGssovaJ1Pdf2waNDc8cIPACvzZCZRS2NXBP1LE636rOZ.cV.X
+    [payer_email] => coffee_88@aol.com
+    [option_name1] => Registration Type
+    [txn_id] => 1ET799339H325260X
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => McAdoo
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.03
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 3648-9082-1276-8648
+    [shipping_method] => Default
+    [handling_amount] => 0.00
+    [transaction_subject] => Registration
+    [payment_gross] => 25.00
+    [shipping] => 0.00
+    [ipn_track_id] => 92c43f0c20f14
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sun May 15, 2016 2:24:34 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sun May 15th, 2016 @ precisely 2:49 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.52 MB :: Real Memory 55.00 MB :: Peak Memory 54.73 MB :: Real Peak Memory 55.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 214.24
+    [protection_eligibility] => Eligible
+    [address_status] => confirmed
+    [payer_id] => 26XA6LZDXXWPS
+    [address_street] => 9620 Woodvale Dr
+    [payment_date] => 07:48:55 May 15, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [address_zip] => 78729
+    [first_name] => Pamela
+    [mc_fee] => 6.51
+    [address_country_code] => US
+    [address_name] => Pamela Menzies
+    [notify_version] => 3.8
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [address_country] => United States
+    [address_city] => Austin
+    [verify_sign] => AIXpYERlOZUtRcNnbeUzUG.wusqtAsYwNmzaEn-5E7iMLkWZq2EvqMyG
+    [payer_email] => rajah1fan@yahoo.com
+    [memo] => For Buffett tickets for Pam &amp; Duane Mathews
+    [txn_id] => 39426972JY171721P
+    [payment_type] => instant
+    [last_name] => Menzies
+    [address_state] => TX
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 6.51
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => send_money
+    [mc_currency] => USD
+    [residence_country] => US
+    [transaction_subject] => 
+    [payment_gross] => 214.24
+    [ipn_track_id] => 50904d67c9881
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sun May 15, 2016 2:49:09 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sun May 15th, 2016 @ precisely 5:11 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.52 MB :: Real Memory 55.00 MB :: Peak Memory 54.72 MB :: Real Peak Memory 55.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 214.24
+    [protection_eligibility] => Eligible
+    [address_status] => confirmed
+    [payer_id] => KKEQHELNJ6LTC
+    [address_street] => 151 Moccasin Cyn
+    [payment_date] => 10:11:19 May 15, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [address_zip] => 78612
+    [first_name] => Thompson
+    [mc_fee] => 6.51
+    [address_country_code] => US
+    [address_name] => Thompson Hazleton
+    [notify_version] => 3.8
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [address_country] => United States
+    [address_city] => Cedar Creek
+    [verify_sign] => AnYyxA4xNUx16FsNitK985v-EOe-AQXkK18CshRcsKKaMppCHbxqz9vO
+    [payer_email] => tommyrox@me.com
+    [memo] => Buffet Tix for Hazleton. Thanks!
+    [txn_id] => 4C659969EW532600A
+    [payment_type] => instant
+    [last_name] => Hazleton
+    [address_state] => TX
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 6.51
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => send_money
+    [mc_currency] => USD
+    [residence_country] => US
+    [transaction_subject] => 
+    [payment_gross] => 214.24
+    [ipn_track_id] => a98658f01fe38
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sun May 15, 2016 5:11:32 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Mon May 16th, 2016 @ precisely 12:35 am UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.51 MB :: Real Memory 54.75 MB :: Peak Memory 54.71 MB :: Real Peak Memory 54.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [txn_type] => send_money
+    [payment_date] => 17:35:50 May 15, 2016 PDT
+    [last_name] => Neilson
+    [residence_country] => US
+    [payment_gross] => 214.24
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AUXd-WJXEpibmoyAQsaeD3rQsARYAMr2j4H3ArwFRFoc0MNIoWV5kiQ.
+    [payer_status] => verified
+    [payer_email] => mmneilson@austin.rr.com
+    [txn_id] => 00V6771357821870X
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Marilyn
+    [payer_id] => TW548J2HBX6KS
+    [receiver_id] => HUUTQCFKQ47CL
+    [memo] => From Marilyn Neilson
+    [payment_status] => Completed
+    [mc_gross] => 214.24
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => bab9723a34e9f
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Mon May 16, 2016 12:35:57 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Mon May 16th, 2016 @ precisely 3:31 am UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.75 MB :: Real Memory 55.25 MB :: Peak Memory 54.96 MB :: Real Peak Memory 55.25 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 214.24
+    [protection_eligibility] => Eligible
+    [address_status] => unconfirmed
+    [payer_id] => TYUL5SDZR4RJY
+    [address_street] => 2909 E. Howard Lane
+    [payment_date] => 20:31:26 May 15, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [address_zip] => 78653
+    [first_name] => B L
+    [mc_fee] => 6.51
+    [address_country_code] => US
+    [address_name] => B L Cornish
+    [notify_version] => 3.8
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [address_country] => United States
+    [address_city] => Manor
+    [verify_sign] => Ae0qLw3RVDTRkPgLgems1L21na5.AWilAtAPe7t0mL9C1Uof7ZvV7HKG
+    [payer_email] => bcornish@hotmail.com
+    [memo] => Jimmy Buffett Austin tickets
+    [txn_id] => 9HY87587X62814310
+    [payment_type] => instant
+    [last_name] => Cornish
+    [address_state] => TX
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 6.51
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => send_money
+    [mc_currency] => USD
+    [residence_country] => US
+    [transaction_subject] => 
+    [payment_gross] => 214.24
+    [ipn_track_id] => 307fdc4dabe4f
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Mon May 16, 2016 3:31:40 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue May 17th, 2016 @ precisely 3:11 am UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.54 MB :: Real Memory 55.00 MB :: Peak Memory 54.74 MB :: Real Peak Memory 55.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 214.24
+    [protection_eligibility] => Eligible
+    [address_status] => unconfirmed
+    [payer_id] => V44BG2XLATR2G
+    [address_street] => 940 Rusk Road
+    [payment_date] => 20:11:15 May 16, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [address_zip] => 78665
+    [first_name] => Matt
+    [mc_fee] => 6.51
+    [address_country_code] => US
+    [address_name] => Matt Borgstrand
+    [notify_version] => 3.8
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [address_country] => United States
+    [address_city] => Round Rock
+    [verify_sign] => ADqCh3sdzD9y7mCEJnmwGAeOPUv6Ar6amJDMfjUHRP7TMxEC.xvPBCm4
+    [payer_email] => matt.borgstrand@gmail.com
+    [memo] => Two Buffett tix
+    [txn_id] => 3EB746570U0288811
+    [payment_type] => instant
+    [last_name] => Borgstrand
+    [address_state] => TX
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 6.51
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => send_money
+    [mc_currency] => USD
+    [residence_country] => US
+    [transaction_subject] => 
+    [payment_gross] => 214.24
+    [ipn_track_id] => 26db491429cb8
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue May 17, 2016 3:11:19 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue May 17th, 2016 @ precisely 5:48 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.54 MB :: Real Memory 55.25 MB :: Peak Memory 54.74 MB :: Real Peak Memory 55.25 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 214.21
+    [protection_eligibility] => Eligible
+    [address_status] => unconfirmed
+    [payer_id] => 8R8859CB57A6E
+    [address_street] => 5217 Old Spicewood Springs Rd.  #2104
+    [payment_date] => 10:47:47 May 17, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [address_zip] => 78731
+    [first_name] => Douglas
+    [mc_fee] => 6.51
+    [address_country_code] => US
+    [address_name] => Douglas Hall
+    [notify_version] => 3.8
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [address_country] => United States
+    [address_city] => Austin
+    [verify_sign] => A1gZCGgaxq1yNJiDKaGm6NiQJNbiAnuHtCJVNwAGKqMloMpStL4ZDEJ4
+    [payer_email] => cabanadaddy@gmail.com
+    [memo] => 2 Buffett tickets for Doug Hall
+    [txn_id] => 71D199718R613254D
+    [payment_type] => instant
+    [last_name] => Hall
+    [address_state] => TX
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 6.51
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => send_money
+    [mc_currency] => USD
+    [residence_country] => US
+    [transaction_subject] => 
+    [payment_gross] => 214.21
+    [ipn_track_id] => 872d85698955
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue May 17, 2016 5:48:01 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue May 17th, 2016 @ precisely 6:23 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.77 MB :: Real Memory 55.00 MB :: Peak Memory 54.98 MB :: Real Peak Memory 55.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 107.12
+    [protection_eligibility] => Eligible
+    [address_status] => confirmed
+    [payer_id] => TGEM3X5DA3LWS
+    [address_street] => 11416 TRAILS END RD
+    [payment_date] => 11:23:06 May 17, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [address_zip] => 78641
+    [first_name] => Tammy
+    [mc_fee] => 3.41
+    [address_country_code] => US
+    [address_name] => Tammy Camp
+    [notify_version] => 3.8
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [address_country] => United States
+    [address_city] => LEANDER
+    [verify_sign] => ACC6h3vqcoj48K-ZovhTSMefRPdtAaEWTY.fFHZrOzHN5g.RqSx1oeim
+    [payer_email] => tlcamp72@yahoo.com
+    [memo] => Jimmy Buffett Tickets
+    [txn_id] => 54W84689N27751638
+    [payment_type] => instant
+    [last_name] => Camp
+    [address_state] => TX
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 3.41
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => send_money
+    [mc_currency] => USD
+    [residence_country] => US
+    [transaction_subject] => 
+    [payment_gross] => 107.12
+    [ipn_track_id] => 5de74d0c1c107
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue May 17, 2016 6:23:20 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue May 17th, 2016 @ precisely 6:36 pm UTC
+PHP v5.6.17 :: WordPress v4.5.2 :: s2Member v160503 :: s2Member Pro v160503
+Memory 54.77 MB :: Real Memory 55.50 MB :: Peak Memory 54.98 MB :: Real Peak Memory 55.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 107.12
+    [protection_eligibility] => Eligible
+    [address_status] => unconfirmed
+    [payer_id] => N5ZWJLWD43RWC
+    [address_street] => 8801 N. FM 620, #712
+    [payment_date] => 11:35:52 May 17, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [address_zip] => 78726
+    [first_name] => Cindy
+    [mc_fee] => 3.41
+    [address_country_code] => US
+    [address_name] => Cindy Hollis
+    [notify_version] => 3.8
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [address_country] => United States
+    [address_city] => Austin
+    [verify_sign] => A7HJF8RSStXOqP9cU9tXztOpHA5-ATTL8DAeTHWzCFqaUnT0stZpckBP
+    [payer_email] => cindy.hollis7@gmail.com
+    [txn_id] => 1T874679SR143554X
+    [payment_type] => instant
+    [last_name] => Hollis
+    [address_state] => TX
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 3.41
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => send_money
+    [mc_currency] => USD
+    [residence_country] => US
+    [transaction_subject] => 
+    [payment_gross] => 107.12
+    [ipn_track_id] => 8b9ab40c266f4
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue May 17, 2016 6:36:25 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Wed Jun 29th, 2016 @ precisely 5:56 pm UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 58.94 MB :: Real Memory 59.25 MB :: Peak Memory 59.16 MB :: Real Peak Memory 59.25 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 10:56:14 Jun 29, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Rigsby
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => A5v94doyzkAL45GWSOpp3GzSpU1aAVRKngPZhdNG3QkfxipV.7YbrfoX
+    [payer_status] => unverified
+    [payer_email] => joderi9@gmail.com
+    [txn_id] => 5G175384B1142005S
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Johnny
+    [option_name1] => Registration Type
+    [payer_id] => 7RXV77FRKGW7A
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => b4d0ef7e3ac15
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Wed Jun 29, 2016 5:56:34 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sun Jul 17th, 2016 @ precisely 12:45 am UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.03 MB :: Real Memory 59.75 MB :: Peak Memory 59.26 MB :: Real Peak Memory 59.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 17:45:28 Jul 16, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Simons
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AxY4PZnLwHn-wCsVYatnHp9kp4-PA1buGCFr0DN9ufH1CnSZ2.IzXgY5
+    [payer_status] => unverified
+    [payer_email] => linzloo662@gmail.com
+    [txn_id] => 13S413153R9289248
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Lindsy
+    [option_name1] => Registration Type
+    [payer_id] => DYTYTX38RF4W4
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => db3a58895dc96
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sun Jul 17, 2016 12:45:42 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue Jul 19th, 2016 @ precisely 4:51 pm UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.05 MB :: Real Memory 59.50 MB :: Peak Memory 59.28 MB :: Real Peak Memory 59.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 40.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => SMMALSTQ8VXDS
+    [tax] => 0.00
+    [payment_date] => 09:51:07 Jul 19, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Timothy
+    [option_selection1] => Couple
+    [mc_fee] => 1.46
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => A5mHShpQ-4NWynyUUm2KG.MrHZzSAUO3BSP2FhY73oAH5GxmCFeYhnjX
+    [payer_email] => timryan2@gmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 0E3817647K0856430
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Ryan
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.46
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 1466-4020-4132-5922
+    [shipping_method] => Default
+    [handling_amount] => 0.00
+    [transaction_subject] => Registration
+    [payment_gross] => 40.00
+    [shipping] => 0.00
+    [ipn_track_id] => c4e789026d379
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue Jul 19, 2016 4:51:22 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Wed Jul 20th, 2016 @ precisely 3:55 pm UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.09 MB :: Real Memory 59.50 MB :: Peak Memory 59.32 MB :: Real Peak Memory 59.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 40.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => BS8SKVV35J6JU
+    [tax] => 0.00
+    [payment_date] => 08:55:04 Jul 20, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Douglas
+    [option_selection1] => Couple
+    [mc_fee] => 1.46
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AMIsJErLWFh1ByQ-Pn.oseCWp0SBAeEwVxujUxo72Wvxih7-pWt0bx.c
+    [payer_email] => thorpd01@gmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 7TB32758AK556604N
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Thorp
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.46
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 4205-5494-5487-6088
+    [shipping_method] => Default
+    [handling_amount] => 0.00
+    [transaction_subject] => Registration
+    [payment_gross] => 40.00
+    [shipping] => 0.00
+    [ipn_track_id] => 6d91f614b1a6c
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Wed Jul 20, 2016 3:55:25 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Fri Jul 22nd, 2016 @ precisely 6:12 am UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.09 MB :: Real Memory 60.00 MB :: Peak Memory 59.32 MB :: Real Peak Memory 60.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => -21.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => BS8SKVV35J6JU
+    [payment_date] => 23:12:29 Jul 21, 2016 PDT
+    [payment_status] => Refunded
+    [charset] => windows-1252
+    [first_name] => Douglas
+    [option_selection1] => Couple
+    [mc_fee] => -0.61
+    [notify_version] => 3.8
+    [reason_code] => refund
+    [custom] => 
+    [business] => paypal@ctxphc.com
+    [verify_sign] => As42CP0jABWG2HOituI.lTaeaj1nA0ExP5SYA0xy2gd6EZEuFmauzyeE
+    [payer_email] => thorpd01@gmail.com
+    [option_name1] => Registration Type
+    [parent_txn_id] => 7TB32758AK556604N
+    [txn_id] => 6NN76793458671821
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Thorp
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => -0.61
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 4205-5494-5487-6088
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => Registration
+    [payment_gross] => -21.00
+    [shipping] => 0.00
+    [ipn_track_id] => 2cfc7c84f0590
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Fri Jul 22, 2016 6:12:40 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Fri Jul 22nd, 2016 @ precisely 2:58 pm UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.09 MB :: Real Memory 59.75 MB :: Peak Memory 59.32 MB :: Real Peak Memory 59.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 25.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => KLYDPYJQYK46S
+    [tax] => 0.00
+    [payment_date] => 07:58:06 Jul 22, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Lynn
+    [option_selection1] => Individual
+    [mc_fee] => 1.03
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AUQPJbVFoszLBf5Fe7GY81IN2NA3AIo7QQt4Jcxa7CQhGt-25X1Wh.nD
+    [payer_email] => namastelz38@hotmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 42787676TA457283T
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Zander
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.03
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 1416-8846-0961-0491
+    [shipping_method] => Default
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 25.00
+    [shipping] => 0.00
+    [ipn_track_id] => dc651215b7bb
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Fri Jul 22, 2016 2:58:11 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sat Jul 23rd, 2016 @ precisely 8:05 pm UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.08 MB :: Real Memory 60.00 MB :: Peak Memory 59.31 MB :: Real Peak Memory 60.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 13:05:26 Jul 23, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Orze
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AaDGXKRfJtkfKjNa8l02wAqao9BiAVdROO7OVh0SV9H4PLmXlWBKmjbx
+    [payer_status] => unverified
+    [payer_email] => k.orze@yahoo.com
+    [txn_id] => 8V210333UF758672H
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Kenneth
+    [option_name1] => Registration Type
+    [payer_id] => JVSMZ5R4V6C4Q
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => fdbdd3ec6713e
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sat Jul 23, 2016 8:05:37 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Wed Jul 27th, 2016 @ precisely 1:28 pm UTC
+PHP v5.6.17 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.09 MB :: Real Memory 60.00 MB :: Peak Memory 59.32 MB :: Real Peak Memory 60.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 45.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => KGFS69WBJYGV8
+    [tax] => 0.00
+    [payment_date] => 06:28:32 Jul 27, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Jana
+    [option_selection1] => Household
+    [mc_fee] => 1.61
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => verified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AAh-gjn1ENnDuooduWNAFaW4Pdn0AnH0-FmfxYN4YgogzmzVGWTyh3EN
+    [payer_email] => janadwilson@hotmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 6D677019TU515732G
+    [payment_type] => instant
+    [btn_id] => 64685
+    [last_name] => Wilson
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.61
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => 
+    [payment_gross] => 45.00
+    [shipping] => 0.00
+    [ipn_track_id] => b7f7fbbbb1148
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Wed Jul 27, 2016 1:28:48 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Fri Jul 29th, 2016 @ precisely 9:50 pm UTC
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160503 :: s2Member Pro v160503
+Memory 59.09 MB :: Real Memory 59.75 MB :: Peak Memory 59.32 MB :: Real Peak Memory 59.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 40.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => UFU37JA3NQF8E
+    [tax] => 0.00
+    [payment_date] => 14:50:12 Jul 29, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Steve
+    [option_selection1] => Couple
+    [mc_fee] => 1.46
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AmOl9JyR5kSM5t9r.Xersz.6IS9YAmNIJml2j2YfmkY8sxYfJDA72G5U
+    [payer_email] => teresadixon1@gmail.com
+    [option_name1] => Registration Type
+    [txn_id] => 4F967371WL818842X
+    [payment_type] => instant
+    [btn_id] => 52791348
+    [last_name] => Marks
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.46
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 2189-2948-7287-0736
+    [shipping_method] => Default
+    [handling_amount] => 0.00
+    [transaction_subject] => Registration
+    [payment_gross] => 40.00
+    [shipping] => 0.00
+    [ipn_track_id] => 229d3a1743b3f
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Fri Jul 29, 2016 9:50:24 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue Aug 16th, 2016 @ precisely 7:29 pm UTC
+PHP v5.6.24 :: WordPress v4.5.3 :: s2Member v160801 :: s2Member Pro v160801
+Memory 59.17 MB :: Real Memory 59.50 MB :: Peak Memory 59.40 MB :: Real Peak Memory 59.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 12:28:46 Aug 16, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Acton
+    [receipt_id] => 1404-3662-6145-2424
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Eligible
+    [verify_sign] => AR3Bnd85qDAG2ivRgEH-F3bq0tH3AttM8c0-eVVww5hOybaG9Ee8zStP
+    [payer_status] => unverified
+    [payer_email] => jeffacton1@gmail.com
+    [txn_id] => 74H50050927908441
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Jeff
+    [option_name1] => Registration Type
+    [payer_id] => 7X5PGAZ4TQ28E
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => eab18844b12ee
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue Aug 16, 2016 7:29:07 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Wed Aug 17th, 2016 @ precisely 9:49 pm UTC
+PHP v5.6.24 :: WordPress v4.6 :: s2Member v160801 :: s2Member Pro v160801
+Memory 60.22 MB :: Real Memory 60.50 MB :: Peak Memory 60.57 MB :: Real Peak Memory 60.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 40.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => JYQJG9DZRZ5HG
+    [tax] => 0.00
+    [payment_date] => 14:49:28 Aug 17, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Leo B
+    [option_selection1] => Couple
+    [mc_fee] => 1.46
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AomRS5l2W2xlt2An.GaSrAzpCl-NA0hYVIzjv3B5v-Ohtq31cfUlyVDi
+    [payer_email] => brittain46@aol.com
+    [option_name1] => Registration Type
+    [txn_id] => 4BL451542M940301A
+    [payment_type] => instant
+    [last_name] => Brittain
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.46
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 4003-4906-6807-5890
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 40.00
+    [shipping] => 0.00
+    [ipn_track_id] => 80cc1f518dbc3
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Wed Aug 17, 2016 9:49:43 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Fri Aug 19th, 2016 @ precisely 5:12 pm UTC
+PHP v5.6.24 :: WordPress v4.6 :: s2Member v160801 :: s2Member Pro v160801
+Memory 60.21 MB :: Real Memory 60.75 MB :: Peak Memory 60.56 MB :: Real Peak Memory 61.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [mc_gross] => 40.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => B2PSBVJLY4NLW
+    [tax] => 0.00
+    [payment_date] => 10:11:51 Aug 19, 2016 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Charli
+    [option_selection1] => Couple
+    [mc_fee] => 1.46
+    [notify_version] => 3.8
+    [custom] => 
+    [payer_status] => unverified
+    [business] => paypal@ctxphc.com
+    [quantity] => 1
+    [verify_sign] => AQGmldskndJM-hb8IFX3tOln3fbsAfqzSv-myCc4wzSAFAKrvDUfDo9o
+    [payer_email] => cb_7283@yahoo.com
+    [option_name1] => Registration Type
+    [txn_id] => 0AL14354CK337324Y
+    [payment_type] => instant
+    [last_name] => Burgess
+    [receiver_email] => paypal@ctxphc.com
+    [payment_fee] => 1.46
+    [receiver_id] => HUUTQCFKQ47CL
+    [txn_type] => web_accept
+    [item_name] => Registration
+    [mc_currency] => USD
+    [item_number] => registration
+    [residence_country] => US
+    [receipt_id] => 4466-6873-3774-9470
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 40.00
+    [shipping] => 0.00
+    [ipn_track_id] => 4de5b03680233
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Fri Aug 19, 2016 5:12:12 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Thu Sep 8th, 2016 @ precisely 7:07 am UTC
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.66 MB :: Real Memory 53.50 MB :: Peak Memory 52.99 MB :: Real Peak Memory 53.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 00:07:12 Sep 08, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Kubiak
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => A-7q6si-b56dHwUChVE-MEKkfEB7Atfn1Kd7-q3g1fZHDg4oaUywmnKH
+    [payer_status] => verified
+    [payer_email] => rwkubiak@yahoo.com
+    [txn_id] => 1K715655A10559706
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Randall
+    [option_name1] => Registration Type
+    [payer_id] => E6VL99JY8YFTU
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => ab8127f9d9d2
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Thu Sep 8, 2016 7:07:31 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sat Sep 17th, 2016 @ precisely 4:46 pm UTC
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.66 MB :: Real Memory 53.25 MB :: Peak Memory 52.99 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 09:46:21 Sep 17, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Gray
+    [receipt_id] => 0270-5009-5008-5185
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AqYbpTrBnVmRxqI0yTqRFW3k.p.ZAAZY.dKtU-LIeSA.FHMZQ0-Eu-X3
+    [payer_status] => unverified
+    [payer_email] => smithpointgirl@gmail.com
+    [txn_id] => 3JT04204HB295920C
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Tracy
+    [option_name1] => Registration Type
+    [payer_id] => XWZ4XULNGFRTE
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 80adb69060918
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sat Sep 17, 2016 4:46:34 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Mon Sep 26th, 2016 @ precisely 1:43 pm UTC
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.69 MB :: Real Memory 53.50 MB :: Peak Memory 53.01 MB :: Real Peak Memory 53.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 06:42:47 Sep 26, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Batten
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => A1TjmIdq.HD6uRltZKQum25bfIANAE0nhFuKCJ54zt6mJ-59F5TMOpV8
+    [payer_status] => verified
+    [payer_email] => jodibatten@aol.com
+    [txn_id] => 5CE451115X493020F
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Jodi
+    [option_name1] => Registration Type
+    [payer_id] => GQQGW6QQ2X2P8
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 7d549ce7d33c5
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Mon Sep 26, 2016 1:43:23 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Mon Sep 26th, 2016 @ precisely 9:02 pm UTC
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.69 MB :: Real Memory 53.25 MB :: Peak Memory 53.02 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 14:02:01 Sep 26, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Perry
+    [receipt_id] => 0005-2063-8160-7975
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AB63pz3qIrLOaZiQqVB04NGoucJcAPvK-ngk3zF2VRWNXUStUmVQCGks
+    [payer_status] => unverified
+    [payer_email] => lkperry44@yahoo.com
+    [txn_id] => 5HM963062T683733J
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Lee
+    [option_name1] => Registration Type
+    [payer_id] => RSCJMYN8S2K9J
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => a95dcc1c895ee
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Mon Sep 26, 2016 9:02:27 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Mon Sep 26th, 2016 @ precisely 9:13 pm UTC
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.69 MB :: Real Memory 53.50 MB :: Peak Memory 53.02 MB :: Real Peak Memory 53.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 14:13:24 Sep 26, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Perry
+    [receipt_id] => 5476-6719-5189-6333
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AZOkxh0X9KVlev5FMM5T4VaocpH5AsgGdMjOCIRTaZzvyiXNG52Ew-Lh
+    [payer_status] => unverified
+    [payer_email] => lkperry44@yahoo.com
+    [txn_id] => 8H254131AC756403J
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Lee
+    [option_name1] => Registration Type
+    [payer_id] => RSCJMYN8S2K9J
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => fa1cb80240a48
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Mon Sep 26, 2016 9:13:42 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue Sep 27th, 2016 @ precisely 8:42 pm UTC
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.69 MB :: Real Memory 53.75 MB :: Peak Memory 53.02 MB :: Real Peak Memory 54.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 13:42:32 Sep 27, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Hanten
+    [receipt_id] => 5600-3052-6012-5915
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AnlkDhBYwCRZ4fplPqXSdkLuOQdmAdh.MTiq5XE0VxoCj8GLiqTlguT.
+    [payer_status] => unverified
+    [payer_email] => rhanten@twc.com
+    [txn_id] => 0C039343T67971430
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Karen L
+    [option_name1] => Registration Type
+    [payer_id] => 32NZSXM6J9KJU
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 382b3b5a8693d
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue Sep 27, 2016 8:42:45 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Tue Oct 18th, 2016 @ precisely 8:57 pm UTC
+PHP v5.6.24 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.69 MB :: Real Memory 53.50 MB :: Peak Memory 53.02 MB :: Real Peak Memory 53.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 13:57:02 Oct 18, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Iverson
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AhosS5wNt8sj6oneRQ470Zvwve6AAb1GexDAnJUlr4J2DjV8tF-8zcHY
+    [payer_status] => verified
+    [payer_email] => andy@iversongroup.net
+    [txn_id] => 2BB721560W9736314
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Tonya
+    [option_name1] => Registration Type
+    [payer_id] => Y7BZAB9UKQ5W6
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 6c2fa1ae2d5df
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Tue Oct 18, 2016 8:57:16 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sat Oct 29th, 2016 @ precisely 10:22 pm UTC
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.64 MB :: Real Memory 53.50 MB :: Peak Memory 52.99 MB :: Real Peak Memory 53.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 15:22:30 Oct 29, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Walter
+    [receipt_id] => 2376-2067-5602-6311
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => A74pMW.WJ2vFlWX-nEaUXmQ8yf5RAyPV9vTduj7dAcM2YXFE9dAa4ZBG
+    [payer_status] => unverified
+    [payer_email] => walterrobert2@gmail.com
+    [txn_id] => 2W169309SW442505V
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Robert
+    [option_name1] => Registration Type
+    [payer_id] => LQMDFXVDRM9LW
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => fd7a3f18c79e4
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sat Oct 29, 2016 10:22:36 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Fri Nov 4th, 2016 @ precisely 2:56 pm UTC
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.63 MB :: Real Memory 53.25 MB :: Peak Memory 52.98 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 07:55:18 Nov 04, 2016 PDT
+    [txn_type] => web_accept
+    [last_name] => Scott
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AoiCBNGVMlgj2ndAkLS-nFk5d9sfAkFkuPGwi3JiBFB2n.MmoFYfhmWu
+    [payer_status] => verified
+    [payer_email] => ls21austin@yahoo.com
+    [txn_id] => 5F779539XJ896963D
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Dawn Lynette
+    [option_name1] => Registration Type
+    [payer_id] => AJPPATNADSZRN
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => 22dca206ae14
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Fri Nov 4, 2016 2:56:05 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Fri Nov 25th, 2016 @ precisely 2:29 am UTC
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v160801 :: s2Member Pro v160801
+Memory 52.64 MB :: Real Memory 53.25 MB :: Peak Memory 52.98 MB :: Real Peak Memory 53.50 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 18:29:33 Nov 24, 2016 PST
+    [txn_type] => web_accept
+    [last_name] => Ball
+    [option_selection1] => Individual
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 25.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AB16b8bTJi3mf0c8kNYnpuvt9Qq8AMMJ5wm2s6hYZPExrSPyTcKo-DM6
+    [payer_status] => verified
+    [payer_email] => djball60@gmail.com
+    [txn_id] => 6CN97835GK0597011
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => David
+    [option_name1] => Registration Type
+    [payer_id] => Z769AJ47D23QL
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.03
+    [mc_fee] => 1.03
+    [mc_gross] => 25.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => db28b1668d5e3
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Fri Nov 25, 2016 2:29:45 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sun Dec 11th, 2016 @ precisely 7:26 pm UTC
+PHP v5.6.27 :: WordPress v4.6.1 :: s2Member v161129 :: s2Member Pro v161129
+Memory 52.91 MB :: Real Memory 53.50 MB :: Peak Memory 53.25 MB :: Real Peak Memory 53.75 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 11:25:53 Dec 11, 2016 PST
+    [txn_type] => web_accept
+    [last_name] => McMahan
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AE0z6BEDO8R9DX7Et.j6zHVYNIe2AvNpcmf3eExNJC2g8Ry-6g7a3U.n
+    [payer_status] => verified
+    [payer_email] => byhismight@hotmail.com
+    [txn_id] => 0AW88105EF864925L
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Penny
+    [option_name1] => Registration Type
+    [payer_id] => X8M44RHHRFGGJ
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => bd631201edd0d
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sun Dec 11, 2016 7:26:16 pm UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
+LOG ENTRY: Sat Dec 17th, 2016 @ precisely 7:49 am UTC
+PHP v5.6.27 :: WordPress v4.7 :: s2Member v161129 :: s2Member Pro v161129
+Memory 56.31 MB :: Real Memory 56.75 MB :: Peak Memory 56.62 MB :: Real Peak Memory 57.00 MB
+www.ctxphc.com/?s2member_paypal_notify=1
+User-Agent: PayPal IPN ( https://www.paypal.com/ipn )
+Array
+(
+    [transaction_subject] => 
+    [payment_date] => 23:49:06 Dec 16, 2016 PST
+    [txn_type] => web_accept
+    [last_name] => Kilgore
+    [option_selection1] => Couple
+    [residence_country] => US
+    [item_name] => Registration
+    [payment_gross] => 40.00
+    [mc_currency] => USD
+    [business] => paypal@ctxphc.com
+    [payment_type] => instant
+    [protection_eligibility] => Ineligible
+    [verify_sign] => AWu5LXYeGjbN4MnftcnMN965XXlkAZ54D0nyB46MuwaVEMjmQJJlFgbE
+    [payer_status] => verified
+    [payer_email] => kaptkaos@gmail.com
+    [txn_id] => 4WJ26908JU8873206
+    [quantity] => 1
+    [receiver_email] => paypal@ctxphc.com
+    [first_name] => Kenneth
+    [option_name1] => Registration Type
+    [payer_id] => QVZDE5PBJY6W2
+    [receiver_id] => HUUTQCFKQ47CL
+    [item_number] => registration
+    [payer_business_name] => Kaos Mix Master
+    [payment_status] => Completed
+    [payment_fee] => 1.46
+    [mc_fee] => 1.46
+    [mc_gross] => 40.00
+    [custom] => 
+    [charset] => windows-1252
+    [notify_version] => 3.8
+    [ipn_track_id] => fdd0a1175bac7
+    [s2member_log] => Array
+        (
+            [0] => IPN received on: Sat Dec 17, 2016 7:49:20 am UTC
+            [1] => s2Member POST vars verified through a POST back to PayPal.
+            [2] => Unable to verify `$_SERVER["HTTP_HOST"]`. Please check the `custom` value in your Button Code. It MUST start with your domain name.
+        )
+
+    [subscr_gateway] => paypal
+)
+
